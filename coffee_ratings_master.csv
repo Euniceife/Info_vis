@@ -1,0 +1,1281 @@
+total_cup_points,species,country_of_origin,altitude_mean_meters,processing_method,aroma,flavor,aftertaste,acidity,body,balance,region
+90,Arabica,Ethiopia,2075.0,Washed / Wet,8.67,8.83,8.67,8.75,8.5,8.42,guji-hambela
+89,Arabica,Ethiopia,2075.0,Washed / Wet,8.75,8.67,8.5,8.58,8.42,8.42,guji-hambela
+89,Arabica,Ethiopia,2000.0,Natural / Dry,8.17,8.58,8.42,8.42,8.5,8.25,oromia
+88,Arabica,Ethiopia,2075.0,Washed / Wet,8.25,8.5,8.25,8.5,8.42,8.33,guji-hambela
+88,Arabica,Ethiopia,1635.0,Washed / Wet,8.25,8.33,8.5,8.42,8.33,8.5,oromia
+88,Arabica,Ethiopia,1635.0,Washed / Wet,8.67,8.67,8.58,8.42,8.33,8.42,oromiya
+88,Arabica,Ethiopia,1822.5,Natural / Dry,8.08,8.58,8.5,8.5,7.67,8.42,"snnp/kaffa zone,gimbowereda"
+88,Arabica,Ethiopia,1905.0,Natural / Dry,8.17,8.67,8.25,8.5,7.75,8.17,oromia
+87,Arabica,United States,1872.0,Washed / Wet,8.25,8.42,8.17,8.33,8.08,8.17,antioquia
+87,Arabica,United States,1943.0,Washed / Wet,8.08,8.67,8.33,8.42,8.0,8.08,antioquia
+87,Arabica,United States (Hawaii),609.6,Washed / Wet,8.33,8.42,8.08,8.25,8.25,8.0,kona
+87,Arabica,Ethiopia,1635.0,Washed / Wet,8.25,8.33,8.5,8.25,8.58,8.75,oromiya
+87,Arabica,United States,2080.0,Washed / Wet,8.0,8.5,8.58,8.17,8.17,8.0,antioquia
+87,Arabica,Indonesia,1500.0,Washed / Wet,8.33,8.25,7.83,7.75,8.5,8.42,sulawesi
+87,Arabica,Ethiopia,1310.64,Washed / Wet,8.17,8.33,8.25,8.33,8.42,8.33,yirgacheffe
+87,Arabica,China,1450.0,Washed / Wet,8.42,8.25,8.08,8.17,7.92,8.0,yunnan
+87,Arabica,Ethiopia,1850.0,Natural / Dry,8.17,8.17,8.0,8.17,8.08,8.33,gedio
+87,Arabica,United States,2019.0,Washed / Wet,8.0,8.25,8.08,8.5,8.25,8.0,antioquia
+87,Arabica,Costa Rica,1300.0,Washed / Wet,8.08,8.25,8.0,8.17,8.0,8.33,san ramon
+87,Arabica,Mexico,1320.0,Washed / Wet,8.17,8.25,8.17,8.0,7.83,8.17,xalapa
+87,Arabica,United States,2112.0,Washed / Wet,8.25,8.33,8.17,8.17,7.83,8.17,antioquia
+87,Arabica,Ethiopia,1310.64,Natural / Dry,8.42,8.17,7.92,8.17,8.33,8.0,sidamo
+86,Arabica,Brazil,1250.0,Natural / Dry,8.5,8.5,8.0,8.0,8.0,8.0,south of minas
+86,Arabica,Ethiopia,1310.64,Washed / Wet,7.83,8.25,8.08,8.17,8.17,8.17,sidamo
+86,Arabica,Uganda,1950.0,Washed / Wet,8.42,8.17,8.17,8.17,7.83,7.92,kapchorwa eastern
+86,Arabica,Honduras,1400.0,Washed / Wet,8.17,8.08,8.08,8.0,8.08,8.0,comayagua
+86,Arabica,Taiwan,1200.0,Pulped natural / honey,8.0,8.0,8.0,8.25,8.0,8.17,"leye, alishan township, chiayi county"
+86,Arabica,Brazil,1300.0,Natural / Dry,8.5,8.17,8.0,7.75,8.0,8.0,vale da grama
+86,Arabica,Costa Rica,1300.0,Washed / Wet,8.17,7.83,8.0,8.08,7.83,8.0,west and central valley
+86,Arabica,Ethiopia,1775.0,Natural / Dry,8.0,8.08,7.92,8.0,8.08,8.08,oromia
+86,Arabica,Kenya,1800.0,Washed / Wet,8.08,8.0,8.0,8.25,7.92,7.92,muranga
+86,Arabica,United States (Hawaii),1310.64,Natural / Dry,8.08,8.17,8.0,7.92,7.92,7.83,kona
+86,Arabica,United States (Hawaii),1310.64,Washed / Wet,8.25,8.42,8.08,7.75,7.67,7.83,kona
+86,Arabica,Ethiopia,1310.64,Washed / Wet,7.92,7.75,8.08,8.08,8.08,8.17,yirgacheffe
+86,Arabica,United States,1941.0,Washed / Wet,7.67,8.17,8.0,8.0,8.17,8.08,antioquia
+86,Arabica,Thailand,1300.0,Washed / Wet,7.83,8.33,7.83,8.25,7.58,7.92,chiang rai
+86,Arabica,Brazil,12.0,Washed / Wet,8.17,7.92,7.92,7.75,8.33,8.0,sul de minas - carmo de minas
+86,Arabica,Brazil,12.0,Washed / Wet,8.42,7.92,8.0,7.75,7.92,8.0,sul de minas - carmo de minas
+86,Arabica,Taiwan,1000.0,Semi-washed / Semi-pulped,8.08,8.17,7.75,8.08,7.75,7.83,natou county
+86,Arabica,Kenya,1754.0,Natural / Dry,8.08,8.08,8.0,8.0,7.83,8.08,nyeri
+86,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,8.33,8.0,8.0,8.0,7.75,8.0,south of minas
+86,Arabica,Uganda,1310.64,Semi-washed / Semi-pulped,8.08,8.08,7.83,7.92,8.08,7.92,eastern uganda
+86,Arabica,Colombia,1200.0,Washed / Wet,7.75,7.92,7.83,8.08,8.08,8.17,tolima
+86,Arabica,Kenya,1860.0,Washed / Wet,7.92,8.17,7.83,8.5,7.5,7.92,kiambu
+86,Arabica,Uganda,1650.0,Washed / Wet,8.25,8.0,7.83,8.08,8.0,7.92,"sipi, mt elgon"
+86,Arabica,Ethiopia,1750.0,Washed / Wet,7.75,8.08,8.0,8.25,8.0,8.0,sidamo
+86,Arabica,United States (Hawaii),426.72,Washed / Wet,8.33,8.17,7.75,8.0,7.75,7.83,kona
+85,Arabica,Guatemala,1310.64,Washed / Wet,7.92,8.08,7.92,8.08,8.08,7.83,nuevo oriente
+85,Arabica,Uganda,1650.0,Natural / Dry,8.17,8.17,7.92,8.08,7.83,7.75,eastern
+85,Arabica,Colombia,1800.0,Washed / Wet,8.0,8.0,8.0,8.17,7.83,8.0,huila
+85,Arabica,Panama,1600.0,Washed / Wet,8.0,8.0,7.92,8.08,7.83,8.0,boquete
+85,Arabica,Ethiopia,1900.0,Washed / Wet,7.83,8.08,7.92,8.08,8.0,7.92,oromia
+85,Arabica,Guatemala,1524.0,Washed / Wet,7.83,8.0,8.0,8.17,7.83,8.0,acatenango
+85,Arabica,Guatemala,1417.32,Washed / Wet,8.0,8.0,7.83,8.33,7.83,7.83,nuevo oriente
+85,Arabica,Ethiopia,1310.64,Natural / Dry,7.83,8.0,7.83,8.17,7.92,8.0,addis ababa
+85,Arabica,Peru,1310.64,Washed / Wet,8.0,8.0,8.0,8.08,7.92,7.75,cajamarca
+85,Arabica,Papua New Guinea,1700.0,Washed / Wet,8.33,8.42,7.83,8.33,8.0,8.25,eastern highlands province
+85,Arabica,El Salvador,1500.0,Washed / Wet,7.92,8.17,8.0,7.92,7.75,7.83,apaneca
+85,Arabica,El Salvador,1350.0,Semi-washed / Semi-pulped,7.83,8.0,8.0,7.75,7.92,8.17,"ataco, apaneca - ilamatepec mountain range"
+85,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.83,8.0,7.92,7.75,8.08,8.0,kona
+85,Arabica,Panama,1680.0,Natural / Dry,8.0,7.75,7.83,7.83,7.67,8.58,boquete
+85,Arabica,Kenya,1900.0,Natural / Dry,7.92,7.92,7.83,8.08,7.83,7.92,kirinyaga
+85,Arabica,Ethiopia,1900.0,Natural / Dry,7.83,8.0,7.83,7.92,7.83,8.08,oromia
+85,Arabica,Uganda,1600.0,Washed / Wet,8.33,7.92,7.67,7.92,7.67,7.92,bulambuli eastern region
+85,Arabica,Guatemala,1731.264,Washed / Wet,8.0,7.83,7.67,8.33,7.83,8.0,huehuetenango
+85,Arabica,Ethiopia,1900.0,Washed / Wet,7.75,7.83,7.83,8.17,7.92,7.83,oromia
+85,Arabica,Uganda,1950.0,Washed / Wet,8.08,8.0,7.83,7.67,8.0,7.83,kapchorwa
+85,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.92,7.92,7.75,7.92,7.75,7.92,kona
+85,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,8.0,8.0,8.0,7.67,7.75,8.0,south of minas
+85,Arabica,El Salvador,1400.0,Washed / Wet,8.08,7.83,7.83,8.08,7.83,7.83,apaneca
+85,Arabica,China,1700.0,Natural / Dry,8.0,8.0,8.0,7.83,7.83,7.75,yunnan
+85,Arabica,Guatemala,1770.0,Natural / Dry,7.83,7.75,7.83,7.67,7.83,8.58,huehuetenango
+85,Arabica,Costa Rica,1300.0,Washed / Wet,7.92,8.08,8.0,7.92,8.0,8.08,west valley
+85,Arabica,Costa Rica,1300.0,Washed / Wet,8.0,7.58,7.58,7.67,8.08,8.5,san ramon
+85,Arabica,Kenya,1600.0,Washed / Wet,7.83,8.08,7.75,8.08,7.92,7.75,central kenya
+85,Arabica,Kenya,1200.0,Washed / Wet,8.0,7.92,7.92,8.08,7.83,7.75,central kenya
+85,Arabica,Ethiopia,1310.64,Washed / Wet,7.83,7.83,7.92,8.08,7.75,7.83,yirgacheffe
+85,Arabica,Ethiopia,1310.64,Washed / Wet,7.92,7.83,7.75,8.33,7.75,7.75,yirgacheffe
+85,Arabica,Guatemala,1310.64,Washed / Wet,8.0,7.92,7.75,8.0,7.92,7.83,oriente
+85,Arabica,Colombia,1550.0,Washed / Wet,8.17,7.92,7.83,8.0,7.58,7.83,santander
+85,Arabica,Colombia,1550.0,Natural / Dry,7.58,8.08,7.92,7.83,8.0,7.92,santander
+85,Arabica,Indonesia,1325.0,Semi-washed / Semi-pulped,7.75,7.83,7.67,8.0,8.08,7.83,lintong
+85,Arabica,Guatemala,1400.0,Washed / Wet,8.25,8.0,7.67,7.92,7.75,7.67,huehuetenango
+85,Arabica,Ethiopia,1310.64,Natural / Dry,7.75,8.0,7.58,8.0,8.0,7.92,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia."
+85,Arabica,Colombia,2560.0,Natural / Dry,8.17,7.83,7.58,8.08,8.0,7.75,pasto
+85,Arabica,Ethiopia,1700.0,Natural / Dry,8.42,8.0,7.42,8.0,7.92,7.92,aricha
+85,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.58,7.83,7.83,7.92,7.83,8.17,kona
+85,Arabica,Colombia,2136.0,Natural / Dry,7.83,8.0,7.75,7.75,7.83,7.83,cundinamarca
+85,Arabica,United States (Hawaii),1310.64,Washed / Wet,8.08,8.17,7.92,8.0,8.08,8.0,kona
+85,Arabica,Ethiopia,1310.64,Washed / Wet,7.67,8.0,7.83,8.0,7.92,7.83,sidamo
+85,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.5,7.92,8.25,7.83,7.92,7.75,kona
+85,Arabica,Uganda,1800.0,Washed / Wet,8.17,7.92,7.75,7.75,7.67,7.75,eastern uganda
+85,Arabica,Colombia,1310.64,Washed / Wet,8.0,7.92,7.75,7.92,7.75,7.83,huila
+85,Arabica,Costa Rica,1900.0,Washed / Wet,7.83,8.0,7.58,7.92,7.92,7.83,tarrazu
+85,Arabica,Mexico,1300.0,Washed / Wet,7.83,8.0,7.83,7.75,7.67,7.83,veracruz
+85,Arabica,Kenya,1580.0,Washed / Wet,7.75,7.83,7.75,8.08,8.0,7.75,central kenya
+85,Arabica,Brazil,1100.0,Natural / Dry,8.0,8.0,7.83,7.83,7.67,7.67,grama valley
+85,Arabica,Mexico,1400.0,Washed / Wet,7.92,8.17,7.75,8.08,7.42,7.83,mexico
+85,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.75,7.92,7.75,7.75,8.0,8.0,kona
+85,Arabica,Guatemala,1325.88,Washed / Wet,7.83,8.08,7.67,8.0,7.75,7.67,"chuva, san marcos"
+84,Arabica,Colombia,1310.64,Washed / Wet,7.92,7.92,7.67,7.83,7.92,7.83,huila
+84,Arabica,Colombia,1775.0,Washed / Wet,7.92,7.83,7.75,7.83,7.75,8.0,huila
+84,Arabica,Taiwan,800.0,Semi-washed / Semi-pulped,7.67,7.83,8.0,7.58,8.0,7.92,natou county
+84,Arabica,"Tanzania, United Republic Of",1620.0,Washed / Wet,8.0,7.83,7.83,7.92,7.75,7.75,mbeya
+84,Arabica,Colombia,1775.0,Washed / Wet,7.75,7.92,7.83,7.75,7.75,8.0,huila
+84,Arabica,Mexico,1200.0,Semi-washed / Semi-pulped,7.75,8.0,7.75,7.83,7.5,7.92,coatepec
+84,Arabica,Brazil,1200.0,Natural / Dry,8.0,7.92,7.75,7.75,8.0,7.75,south of minas
+84,Arabica,Brazil,1000.0,Natural / Dry,8.0,8.0,7.75,8.0,7.5,7.75,south of minas
+84,Arabica,Taiwan,350.0,Natural / Dry,7.92,7.58,7.83,7.83,7.83,7.83,"dongshan dist., tainan city 臺南市東山區"
+84,Arabica,Uganda,1650.0,Natural / Dry,7.75,7.92,7.67,7.67,8.25,7.75,eastern
+84,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.67,7.75,7.75,7.75,7.83,8.0,kona
+84,Arabica,Ethiopia,1750.0,Washed / Wet,7.75,7.92,7.83,7.92,7.75,7.67,sidamo
+84,Arabica,Ethiopia,1750.0,Washed / Wet,7.42,7.92,7.92,8.0,7.83,7.83,sidamo
+84,Arabica,Thailand,1310.64,Pulped natural / honey,7.75,7.75,7.75,7.75,8.0,7.75,thailand
+84,Arabica,Kenya,1800.0,Washed / Wet,7.92,7.83,7.58,7.92,7.75,7.83,nyeri
+84,Arabica,Honduras,1450.0,Washed / Wet,7.83,7.75,8.0,7.67,7.67,7.67,marcala
+84,Arabica,El Salvador,1200.0,Washed / Wet,7.75,8.0,8.0,8.33,7.67,7.92,santa ana
+84,Arabica,Nicaragua,925.0,Washed / Wet,7.83,7.58,7.58,7.83,7.75,7.67,jinotega
+84,Arabica,El Salvador,1350.0,Washed / Wet,7.83,7.83,7.5,8.0,7.83,7.67,apaneca
+84,Arabica,Indonesia,1200.0,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.75,"temanggung, indonesia"
+84,Arabica,Japan,170.0,Pulped natural / honey,7.75,7.75,7.75,7.42,8.08,7.83,ada okinawa japan
+84,Arabica,Costa Rica,1150.0,Washed / Wet,8.08,7.75,7.67,7.83,7.5,7.92,tarrazu
+84,Arabica,Guatemala,1600.0,Washed / Wet,7.75,7.83,7.58,8.0,7.92,7.75,acatenango
+84,Arabica,Costa Rica,1750.0,Washed / Wet,8.17,8.0,7.83,7.17,7.83,7.75,tarrazu
+84,Arabica,Ethiopia,1900.0,Washed / Wet,8.08,7.83,7.75,7.83,7.58,7.67,yirgacheffe
+84,Arabica,Costa Rica,1750.0,Other,7.67,7.58,7.75,7.75,7.67,8.58,costa rica
+84,Arabica,Costa Rica,1200.0,Washed / Wet,8.0,7.58,7.83,7.75,7.75,7.75,west valley
+84,Arabica,Taiwan,1000.0,Washed / Wet,8.0,7.92,7.75,7.75,7.75,7.75,taichung xinshe 台中市新社區
+84,Arabica,Colombia,1550.0,Washed / Wet,7.75,7.83,7.75,7.83,7.75,7.83,santander
+84,Arabica,Kenya,2000.0,Washed / Wet,7.75,7.92,7.83,8.0,7.58,7.75,nyeri
+84,Arabica,Guatemala,1310.64,Washed / Wet,8.0,7.83,7.67,7.83,7.67,8.0,oriente
+84,Arabica,Guatemala,1524.0,Washed / Wet,7.67,7.83,7.67,8.0,7.67,7.83,acatenango
+84,Arabica,Mexico,1200.0,Washed / Wet,7.83,7.58,7.67,7.92,7.92,7.83,el remudadero
+84,Arabica,Uganda,1775.0,Washed / Wet,7.92,7.83,7.75,7.92,7.67,7.75,mbale
+84,Arabica,Peru,1310.64,Washed / Wet,7.67,7.83,7.75,7.75,7.92,7.83,"penachi, cecanor"
+84,Arabica,Ethiopia,1750.0,Washed / Wet,7.42,7.75,7.75,8.0,8.0,7.92,sidamo
+84,Arabica,Kenya,1754.0,Washed / Wet,7.92,7.75,7.83,7.75,7.58,7.92,nyeri
+84,Arabica,Colombia,1500.0,Washed / Wet,7.83,7.67,7.58,7.92,7.67,7.83,santander
+84,Arabica,Colombia,1310.64,Washed / Wet,7.92,7.83,7.58,8.0,7.83,7.67,huila
+84,Arabica,Kenya,1800.0,Washed / Wet,7.83,7.83,7.83,7.75,7.58,7.83,nyeri
+84,Arabica,Guatemala,1524.0,Washed / Wet,7.75,7.83,7.67,7.92,7.75,7.83,jalapa
+84,Arabica,Guatemala,1219.2,Washed / Wet,8.0,7.92,7.67,7.58,7.58,7.67,oriente
+84,Arabica,Colombia,1550.0,Washed / Wet,7.67,7.67,7.58,7.75,7.58,8.5,santander
+84,Arabica,Colombia,1750.0,Washed / Wet,7.75,7.75,7.83,7.75,7.58,8.0,huila
+84,Arabica,Colombia,1750.0,Washed / Wet,7.67,7.83,7.83,8.0,7.58,7.92,huila
+84,Arabica,Costa Rica,1575.0,Semi-washed / Semi-pulped,7.75,7.83,7.75,8.0,7.83,7.67,tres rios
+84,Arabica,Colombia,1800.0,Washed / Wet,7.42,7.67,7.75,7.75,8.08,7.83,huila
+84,Arabica,Brazil,1300.0,Semi-washed / Semi-pulped,8.0,8.0,7.75,7.75,7.58,7.75,vale da grama
+84,Arabica,Brazil,1100.0,Semi-washed / Semi-pulped,8.5,8.0,7.5,7.75,7.5,7.83,mountains of minas gerais
+84,Arabica,Costa Rica,1200.0,Washed / Wet,7.92,7.67,7.92,7.75,7.67,7.58,valle central
+84,Arabica,Uganda,1750.0,Washed / Wet,7.92,7.75,7.67,7.75,7.83,7.75,eastern uganda
+84,Arabica,China,1680.0,Washed / Wet,7.75,7.92,7.67,7.83,7.75,7.67,yunnan
+84,Arabica,Costa Rica,1700.0,Washed / Wet,7.92,7.83,7.83,7.83,7.58,7.58,tarrazu
+84,Arabica,Colombia,1800.0,Washed / Wet,8.08,7.67,7.83,7.83,7.67,7.67,cauca
+84,Arabica,China,1100.0,Washed / Wet,7.67,8.0,7.75,7.83,7.75,7.58,yunnan
+84,Arabica,Guatemala,1310.64,Washed / Wet,8.17,7.83,7.67,7.83,7.67,7.83,oriente
+84,Arabica,Kenya,2000.0,Washed / Wet,7.92,7.83,7.67,8.0,7.67,7.75,nyeri
+84,Arabica,Mexico,1350.0,Washed / Wet,8.0,7.92,7.42,8.08,7.5,7.67,hustusco
+84,Arabica,Mexico,1500.0,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.83,jaltenango
+84,Arabica,Guatemala,1310.64,Washed / Wet,7.67,8.0,7.67,8.0,7.5,7.83,"el tumbador, san marcos"
+84,Arabica,Brazil,1310.64,Washed / Wet,7.81,7.81,7.88,7.75,7.38,8.25,mmm
+84,Arabica,Brazil,1310.64,Washed / Wet,8.17,7.67,7.75,7.75,7.67,7.75,test
+84,Arabica,Costa Rica,1300.0,Washed / Wet,7.58,7.83,7.83,8.0,7.67,7.58,tarrazu
+84,Arabica,Indonesia,1400.0,Other,7.67,7.67,7.83,7.58,7.83,7.83,sumatra brastagi
+84,Arabica,Colombia,1310.64,Natural / Dry,7.92,7.83,7.75,7.67,7.92,7.67,pitalito
+84,Arabica,Colombia,1775.0,Washed / Wet,7.92,7.75,7.67,7.92,7.67,7.75,huila
+84,Arabica,Taiwan,1200.0,Washed / Wet,7.83,7.83,7.75,8.0,7.5,7.75,"mountain ali, taiwan"
+84,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.92,7.92,7.5,7.83,7.5,7.92,kona
+84,Arabica,Mexico,900.0,Washed / Wet,7.75,7.92,7.75,7.67,7.83,7.67,tapachula
+84,Arabica,Ethiopia,1310.64,Washed / Wet,7.5,7.75,7.83,7.92,7.92,7.75,limu
+84,Arabica,Kenya,1800.0,Washed / Wet,7.33,7.58,7.83,7.75,7.75,7.92,nyeri
+84,Arabica,Honduras,1500.0,Washed / Wet,7.92,8.0,7.75,7.67,7.67,7.75,comayagua
+84,Arabica,Colombia,1310.64,Washed / Wet,7.58,7.75,7.5,7.83,7.67,8.5,huila
+84,Arabica,Honduras,1500.0,Washed / Wet,7.58,7.92,7.58,7.75,7.92,7.75,central region
+84,Arabica,Colombia,1310.64,Washed / Wet,7.67,7.67,7.75,7.83,7.75,7.83,la plata
+84,Arabica,Colombia,442.0,Natural / Dry,7.75,7.67,8.0,7.67,8.08,7.83,huila
+84,Arabica,Colombia,1800.0,Washed / Wet,7.75,7.58,7.33,7.83,7.58,8.08,huila
+84,Arabica,Mexico,1700.0,Washed / Wet,8.0,7.75,7.75,7.83,7.5,7.67,tuxtla gutierrez
+84,Arabica,Brazil,1275.0,Washed / Wet,8.17,8.0,7.5,7.75,7.5,7.67,vale da grama
+84,Arabica,Brazil,1050.0,Washed / Wet,8.0,8.0,7.5,7.5,7.67,7.75,south of minas
+84,Arabica,Ethiopia,1493.52,Washed / Wet,7.75,7.75,7.92,7.75,7.5,7.92,limu
+84,Arabica,Guatemala,1386.84,Washed / Wet,7.5,7.67,7.75,7.67,7.92,7.92,nuevo oriente
+84,Arabica,Taiwan,1000.0,Washed / Wet,7.92,7.75,7.75,7.67,7.67,7.83,國姓鄉 guoshing township
+84,Arabica,Thailand,1200.0,Natural / Dry,7.83,7.75,7.75,7.42,7.83,7.67,chiang rai thailand
+84,Arabica,Colombia,2560.0,Natural / Dry,7.83,7.58,7.75,7.58,7.67,8.0,nariño
+84,Arabica,Guatemala,1500.0,Washed / Wet,7.75,7.75,7.58,7.92,7.75,7.75,antigua
+84,Arabica,Guatemala,1099.4136,Washed / Wet,7.75,7.92,7.5,8.08,7.58,7.67,huehuetenango
+84,Arabica,China,1400.0,Natural / Dry,7.83,7.83,7.58,7.75,7.75,7.75,yunnan
+84,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.67,7.75,7.75,7.67,7.92,huila
+84,Arabica,Colombia,1775.0,Washed / Wet,7.83,7.67,7.75,7.58,7.92,7.75,huila
+84,Arabica,Colombia,1800.0,Washed / Wet,7.83,7.75,7.83,7.58,7.67,7.75,cauca
+84,Arabica,Colombia,442.0,Natural / Dry,7.42,7.67,7.83,7.75,7.92,7.83,huila
+84,Arabica,"Tanzania, United Republic Of",1620.0,Washed / Wet,7.83,7.67,7.75,7.83,7.67,7.67,shizingo village
+84,Arabica,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.83,7.75,7.75,7.75,7.67,7.75,mbeya
+84,Arabica,Guatemala,1219.2,Other,7.83,7.83,7.5,7.92,7.58,7.75,oriente
+84,Arabica,Colombia,1700.0,Washed / Wet,7.58,7.5,7.75,7.83,7.92,7.83,cauca
+84,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.33,7.92,7.92,7.92,7.92,8.08,kona
+84,Arabica,Mexico,1450.0,Semi-washed / Semi-pulped,7.83,7.92,7.67,7.83,7.5,7.75,san pedro cotzilnam
+84,Arabica,Mexico,1170.0,Washed / Wet,7.83,7.83,7.75,7.67,7.83,7.58,veracruz
+84,Arabica,Mexico,1400.0,Washed / Wet,7.83,7.92,7.67,7.75,7.5,7.75,"la concordia, chiapas"
+84,Arabica,Uganda,1700.0,Natural / Dry,8.17,7.75,7.58,7.67,7.83,7.58,kasese
+84,Arabica,Guatemala,1700.0,Washed / Wet,7.75,7.83,7.58,7.83,7.67,7.75,san marcos
+84,Arabica,Colombia,1310.64,Washed / Wet,7.83,7.75,7.58,7.67,7.75,7.83,huila
+84,Arabica,Costa Rica,1700.0,Washed / Wet,7.92,7.75,7.67,7.67,7.5,7.67,tarrazu
+84,Arabica,Guatemala,1116.7872,Washed / Wet,7.75,7.75,7.58,8.0,7.67,7.83,huehuetenango
+84,Arabica,Guatemala,1565.0,Washed / Wet,7.75,7.92,7.58,7.92,7.67,7.67,solola
+84,Arabica,Guatemala,3280.0,Washed / Wet,7.58,7.83,7.58,7.83,7.83,7.67,norte
+84,Arabica,Colombia,1775.0,Washed / Wet,8.0,7.5,7.5,7.67,8.0,7.83,huila
+84,Arabica,Nicaragua,1000.0,Natural / Dry,7.67,7.83,7.83,7.5,7.67,7.83,jinotega
+84,Arabica,Brazil,1150.0,Natural / Dry,7.67,7.75,7.75,7.67,7.83,7.75,cerrado
+84,Arabica,Costa Rica,1850.0,Washed / Wet,7.67,7.75,7.67,7.75,7.5,8.0,tarrazu
+84,Arabica,Ethiopia,1606.5,Natural / Dry,7.5,7.92,7.58,7.83,7.75,7.83,snnprg; kafa; telo woreda; shada kebele
+84,Arabica,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.92,7.75,7.75,7.75,7.75,7.58,arusha
+84,Arabica,Colombia,1530.0,Washed / Wet,7.67,7.5,7.67,7.42,7.83,8.58,huila
+84,Arabica,Kenya,250.5,Washed / Wet,7.58,7.75,7.75,7.75,7.75,7.83,kenya
+84,Arabica,Brazil,1038.5,Natural / Dry,7.58,7.83,7.75,7.67,7.67,8.0,"minas gerais, br"
+84,Arabica,Guatemala,1310.64,Washed / Wet,7.92,7.75,7.67,7.67,7.83,7.92,oriente
+84,Arabica,El Salvador,1500.0,Natural / Dry,8.42,8.08,7.5,7.17,7.58,8.17,apaneca
+84,Arabica,Colombia,1750.0,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.75,huila
+84,Arabica,Guatemala,1310.64,Natural / Dry,7.83,7.5,7.5,8.0,7.83,7.83,guatemala
+84,Arabica,Uganda,1600.0,Washed / Wet,7.83,7.75,7.5,7.83,7.83,7.75,mt. rwenzori
+84,Arabica,Indonesia,1310.64,Natural / Dry,7.81,7.88,7.56,7.75,7.63,7.75,aceh tengah
+84,Arabica,Colombia,442.0,Washed / Wet,7.83,7.5,7.42,7.5,7.83,8.5,huila
+84,Arabica,Taiwan,968.0,Washed / Wet,7.58,7.67,7.67,7.67,7.75,7.83,"nanxi dist., tainan city 臺南市楠西區"
+84,Arabica,Guatemala,1310.64,Washed / Wet,8.0,7.75,7.5,7.58,7.92,7.67,oriente
+84,Arabica,Colombia,1775.0,Washed / Wet,7.92,7.75,7.67,7.75,7.67,7.67,huila
+84,Arabica,Guatemala,1550.0,Washed / Wet,7.58,7.75,7.67,8.0,7.75,7.67,"aldea xeucalvitz, ixil region, quiche department"
+84,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.83,7.75,7.83,7.83,7.42,8.08,kona
+84,Arabica,Mexico,1480.0,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.75,santo domingo cacalotepec
+84,Arabica,Ethiopia,1800.0,Natural / Dry,7.92,7.92,7.83,8.0,7.92,7.92,"ethiopia, sidamo"
+84,Arabica,Ethiopia,1800.0,Natural / Dry,7.83,7.75,7.67,7.75,7.33,7.75,sidamo
+84,Arabica,Honduras,1500.0,Washed / Wet,7.42,7.83,7.75,7.92,7.75,7.58,comayagua
+84,Arabica,Guatemala,1706.88,Washed / Wet,7.67,7.83,7.58,7.92,7.75,7.67,huehuetenango
+84,Arabica,Colombia,1600.0,Washed / Wet,7.67,7.67,7.83,7.58,7.58,7.83,huila
+84,Arabica,Guatemala,1219.2,Natural / Dry,7.92,7.67,7.42,7.92,7.75,7.83,oriente
+84,Arabica,Guatemala,1219.2,Other,7.75,7.83,7.5,7.83,7.58,7.67,oriente
+84,Arabica,Colombia,1480.0,Washed / Wet,7.67,7.75,7.67,7.67,7.67,7.75,huila
+84,Arabica,Colombia,1450.0,Natural / Dry,7.58,7.42,7.75,7.92,7.75,7.92,santander
+84,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.67,7.5,7.5,7.67,7.67,huila
+84,Arabica,Ethiopia,1550.0,Natural / Dry,7.75,7.75,7.5,7.58,7.67,7.92,sidamo
+84,Arabica,Brazil,1260.0,Natural / Dry,7.58,7.83,7.67,7.25,8.0,7.75,south of minas
+84,Arabica,Colombia,1700.0,Washed / Wet,7.67,7.83,7.67,7.75,7.67,7.75,cauca
+84,Arabica,Kenya,1200.0,Washed / Wet,7.67,7.83,7.5,7.75,7.92,7.67,blend
+84,Arabica,Thailand,1310.64,Washed / Wet,7.92,8.17,8.17,8.42,8.08,8.17,thailand
+84,Arabica,Kenya,1650.0,Washed / Wet,7.67,7.75,7.67,7.75,7.83,7.67,central kenya
+84,Arabica,Uganda,1700.0,Washed / Wet,7.92,7.75,7.58,7.67,7.67,7.83,kasese
+83,Arabica,Brazil,890.0,Natural / Dry,7.5,7.75,7.58,7.5,7.58,7.5,south of minas
+83,Arabica,Mexico,1300.0,Washed / Wet,7.83,7.83,7.58,7.92,7.42,7.5,veracruz
+83,Arabica,Thailand,1350.0,Natural / Dry,7.67,7.75,7.5,7.67,7.67,7.83,chiangrai
+83,Arabica,Brazil,934.0,Natural / Dry,7.58,7.67,7.67,7.75,7.58,7.83,south of minas
+83,Arabica,Taiwan,1200.0,Washed / Wet,7.83,7.75,7.83,7.75,7.83,7.75,"leye, alishan township, chiayi county 嘉義阿里山樂野村"
+83,Arabica,Colombia,442.0,Washed / Wet,7.75,7.67,7.5,7.75,7.83,7.75,huila
+83,Arabica,Colombia,1310.64,Washed / Wet,7.75,7.58,7.5,7.83,7.75,7.92,la plata
+83,Arabica,Taiwan,1310.64,Natural / Dry,7.75,7.75,7.58,7.75,7.75,7.67,台灣
+83,Arabica,Colombia,1310.64,Washed / Wet,7.92,7.67,7.5,7.83,7.58,7.67,huila
+83,Arabica,Colombia,1310.64,Washed / Wet,7.83,7.75,7.58,7.58,7.75,7.75,huila
+83,Arabica,Colombia,1775.0,Washed / Wet,7.75,7.58,7.67,7.83,7.83,7.67,huila
+83,Arabica,Taiwan,950.0,Washed / Wet,8.0,7.92,7.92,7.92,7.67,7.33,台中和平區
+83,Arabica,Colombia,1550.0,Natural / Dry,7.67,7.83,7.67,7.75,7.67,7.83,santander
+83,Arabica,Mexico,900.0,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.83,xicotepec de juarez
+83,Arabica,Mexico,1500.0,Washed / Wet,7.5,7.67,7.58,7.83,7.75,7.75,la concordia
+83,Arabica,Mexico,1400.0,Washed / Wet,7.75,7.92,7.83,7.92,7.75,7.67,la yerbabuena
+83,Arabica,Colombia,2527.0,Washed / Wet,7.92,7.58,7.5,7.83,7.58,7.67,nariño
+83,Arabica,Colombia,1310.64,Washed / Wet,7.83,7.67,7.5,7.75,7.75,7.75,huila
+83,Arabica,Costa Rica,1850.0,Washed / Wet,7.67,7.67,7.75,7.67,7.5,7.75,tarrazu
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.75,7.75,7.5,7.75,7.83,7.58,antigua
+83,Arabica,Taiwan,1200.0,Washed / Wet,7.75,7.67,7.5,7.75,7.75,7.67,台灣
+83,Arabica,Brazil,1.0,Natural / Dry,7.25,7.58,7.42,8.0,7.75,7.83,south of minas
+83,Arabica,Taiwan,525.0,Washed / Wet,7.67,7.75,7.67,7.75,7.42,7.75,"dongshan dist., tainan city 臺南市東山區"
+83,Arabica,Ethiopia,1676.5,Natural / Dry,7.75,7.75,7.67,7.67,7.58,7.67,oromia
+83,Arabica,Brazil,1200.0,Semi-washed / Semi-pulped,7.67,7.67,7.58,7.5,7.83,8.17,south of minas
+83,Arabica,Costa Rica,1300.0,Washed / Wet,7.83,7.42,7.5,7.83,7.75,7.83,central valley
+83,Arabica,Guatemala,1219.2,Washed / Wet,7.58,7.83,7.33,8.0,7.58,7.75,oriente
+83,Arabica,Brazil,1260.0,Natural / Dry,7.92,7.5,7.33,7.67,8.17,7.5,south of minas
+83,Arabica,Ecuador,800.0,Natural / Dry,7.5,7.67,7.58,7.75,7.83,7.83,"province of manabi, ecuador"
+83,Arabica,Colombia,1750.0,Washed / Wet,7.67,7.58,7.58,7.83,7.58,7.67,huila
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.83,7.5,7.83,7.83,7.67,oriente
+83,Arabica,Mexico,1218.0,Natural / Dry,7.67,8.0,7.67,7.42,7.67,7.5,petatlan
+83,Arabica,Mexico,1300.0,Natural / Dry,7.67,7.58,7.5,7.75,7.75,7.75,"la concordia, chiapas"
+83,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,7.83,7.83,7.58,7.67,7.5,7.58,carmo de minas
+83,Arabica,Thailand,1499.9208,Washed / Wet,7.75,7.75,7.58,8.0,7.67,7.58,"doi chaang village, chiang rai, thialand"
+83,Arabica,Ethiopia,1310.64,Washed / Wet,7.58,7.83,7.58,8.0,7.83,7.5,sidamo
+83,Arabica,Kenya,1800.0,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.75,nyeri
+83,Arabica,Brazil,890.0,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,south of minas
+83,Arabica,Colombia,442.0,Washed / Wet,7.83,7.83,7.58,7.58,7.58,7.58,huila
+83,Arabica,Taiwan,750.0,Natural / Dry,7.67,7.67,7.58,7.58,7.67,7.83,"台南市東山區 (dongshan dist., tainan city)"
+83,Arabica,Colombia,1310.64,Washed / Wet,7.92,7.75,7.5,7.67,7.75,7.5,huila
+83,Arabica,China,1650.0,Washed / Wet,7.83,7.75,7.67,7.5,7.58,7.67,yunnan
+83,Arabica,Colombia,442.0,Natural / Dry,7.75,7.67,7.5,7.67,7.58,7.83,huila
+83,Arabica,Uganda,1400.0,Natural / Dry,8.0,7.92,7.58,7.75,7.33,7.5,west nile
+83,Arabica,United States (Puerto Rico),853.44,Washed / Wet,7.83,7.83,7.83,7.67,8.0,8.17,yauco region
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.67,7.67,7.92,7.5,7.67,huila
+83,Arabica,Colombia,1550.0,Washed / Wet,7.67,7.42,7.42,7.42,8.0,8.33,huila
+83,Arabica,Colombia,1750.0,Washed / Wet,7.58,7.67,7.75,7.67,7.67,7.67,huila
+83,Arabica,Colombia,1750.0,Washed / Wet,7.75,7.67,7.75,7.58,7.42,8.0,huila
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.25,7.42,7.67,7.58,7.83,8.25,kona
+83,Arabica,Mexico,700.0,Natural / Dry,7.83,7.58,7.58,7.5,7.75,7.67,"huazalingo, hidalgo"
+83,Arabica,Guatemala,1300.0,Washed / Wet,7.67,7.58,7.58,7.67,7.75,7.75,quetzaltenango
+83,Arabica,Colombia,1600.0,Washed / Wet,7.83,7.83,7.58,7.33,7.42,7.67,cauca
+83,Arabica,Colombia,1600.0,Washed / Wet,7.75,7.67,7.25,7.25,7.58,8.5,cundinamarca
+83,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.83,7.67,7.75,7.67,7.58,7.5,kona
+83,Arabica,Brazil,890.0,Natural / Dry,7.67,7.83,7.5,7.67,7.67,7.5,south of minas
+83,Arabica,Kenya,1700.0,Washed / Wet,8.08,7.67,7.67,7.58,7.25,7.67,meru county
+83,Arabica,Honduras,1400.0,Washed / Wet,7.5,7.5,7.67,7.67,8.0,8.0,comayagua
+83,Arabica,Nicaragua,1250.0,Washed / Wet,7.67,7.75,7.67,7.67,7.83,7.58,jinotega
+83,Arabica,Brazil,934.0,Natural / Dry,7.58,7.75,7.58,7.75,7.58,7.58,south of minas
+83,Arabica,Taiwan,1200.0,Natural / Dry,7.5,7.67,7.33,7.92,7.83,7.67,"leye, alishan township, chiayi county"
+83,Arabica,Costa Rica,1350.0,Washed / Wet,7.33,7.67,7.67,7.5,7.67,7.5,west valley
+83,Arabica,Thailand,800.0,Washed / Wet,7.5,7.75,7.58,7.83,7.67,7.58,thailand
+83,Arabica,Colombia,1625.0,Washed / Wet,7.5,7.75,7.5,7.75,7.67,7.67,huila
+83,Arabica,Guatemala,1356.6648,Washed / Wet,8.0,7.5,7.33,8.0,8.0,8.0,huehuetenango
+83,Arabica,Colombia,1750.0,Washed / Wet,7.83,7.75,7.67,7.58,7.58,7.67,huila supremo
+83,Arabica,Colombia,1900.0,Washed / Wet,7.67,7.67,7.67,7.67,7.33,7.75,huila
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.67,7.67,7.42,7.67,8.0,7.75,oriente
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.83,7.67,7.33,7.67,7.67,7.83,oriente
+83,Arabica,Colombia,1750.0,Washed / Wet,7.75,7.75,7.58,7.83,7.17,7.75,huila
+83,Arabica,Guatemala,1450.0,Natural / Dry,8.17,8.17,7.83,7.67,8.08,7.75,oriente
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.67,8.17,7.5,7.42,7.58,7.83,oriente
+83,Arabica,Mexico,1100.0,Washed / Wet,7.67,7.5,7.5,7.33,7.83,8.25,xicotepec de juarez
+83,Arabica,Indonesia,1400.0,Washed / Wet,8.17,7.67,7.58,7.58,7.42,7.67,east java
+83,Arabica,Guatemala,1524.0,Washed / Wet,7.67,7.5,7.33,8.0,7.67,7.67,"sacatepequez, guatemala"
+83,Arabica,Brazil,890.0,Natural / Dry,7.58,7.67,7.58,7.58,7.67,7.58,south of minas
+83,Arabica,Guatemala,1128.3696,Washed / Wet,7.75,7.75,7.5,7.83,7.58,7.58,huehuetenango
+83,Arabica,Colombia,1310.64,Washed / Wet,7.75,7.75,7.58,7.58,7.67,7.58,huila
+83,Arabica,China,1100.0,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.75,yunnan
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.58,huila
+83,Arabica,Mexico,1200.0,Washed / Wet,7.75,7.75,7.58,7.58,7.5,7.67,"chiapas, jaltenango"
+83,Arabica,Ethiopia,1850.0,Washed / Wet,7.75,7.67,7.58,7.67,7.5,7.67,yirgacheffe
+83,Arabica,Uganda,1800.0,Washed / Wet,7.67,7.67,7.42,7.75,7.75,7.67,eastern
+83,Arabica,Colombia,1600.0,Natural / Dry,7.67,7.58,7.67,7.67,7.67,7.67,cundinamarca
+83,Arabica,Colombia,1550.0,Washed / Wet,7.67,7.58,7.67,7.58,7.67,7.75,santander
+83,Arabica,Colombia,1550.0,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.83,santander
+83,Arabica,Taiwan,1000.0,Other,7.75,7.75,7.75,7.75,7.5,7.58,taichung xinshe 台中市新社區
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.67,7.58,7.67,7.75,7.58,huila
+83,Arabica,Mexico,1000.0,Washed / Wet,7.83,7.67,7.58,7.58,7.67,7.58,xalapa
+83,Arabica,Colombia,2136.0,Natural / Dry,7.67,7.58,7.58,7.58,7.67,7.75,cundinamarca
+83,Arabica,Brazil,1100.0,Semi-washed / Semi-pulped,7.83,7.75,7.5,7.75,7.5,7.58,south of minas
+83,Arabica,Colombia,1799.0,Washed / Wet,7.75,7.58,7.58,7.75,7.75,7.5,cundinamarca
+83,Arabica,Costa Rica,1850.0,Washed / Wet,7.92,7.42,7.5,7.67,7.5,7.67,tarrazu
+83,Arabica,Colombia,1000.0,Natural / Dry,7.75,7.58,7.58,7.5,7.75,7.75,pitalito
+83,Arabica,Guatemala,1219.2,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.58,oriente
+83,Arabica,Colombia,1775.0,Washed / Wet,7.58,7.58,7.58,7.58,7.75,7.67,huila
+83,Arabica,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.75,7.67,7.58,7.67,7.67,7.58,nkure- meru
+83,Arabica,Indonesia,1500.0,Semi-washed / Semi-pulped,7.25,7.67,7.58,7.92,7.83,7.58,bener meriah
+83,Arabica,Ethiopia,1600.0,Natural / Dry,7.67,7.75,7.5,7.58,7.75,7.67,oromia
+83,Arabica,Colombia,1310.64,Washed / Wet,7.67,7.42,7.67,7.83,7.58,7.67,huila
+83,Arabica,Colombia,1850.0,Washed / Wet,8.0,7.58,7.25,7.58,7.92,7.58,huila
+83,Arabica,Guatemala,1400.0,Washed / Wet,7.58,7.75,7.5,7.83,7.42,7.67,atitlan
+83,Arabica,Colombia,1650.0,Washed / Wet,7.75,7.58,7.33,7.5,7.83,7.83,cundinamarca
+83,Arabica,Honduras,1350.0,Natural / Dry,7.67,7.5,7.67,7.5,7.67,7.67,comayagua
+83,Arabica,Colombia,1750.0,Washed / Wet,7.58,7.75,7.42,7.67,7.75,7.67,huila
+83,Arabica,Colombia,1750.0,Washed / Wet,7.58,7.67,7.58,7.75,7.58,7.75,huila
+83,Arabica,Mexico,1170.0,Natural / Dry,7.83,7.58,7.25,7.5,7.5,7.42,xalapa
+83,Arabica,Mexico,940.0,Semi-washed / Semi-pulped,7.67,7.75,7.67,7.75,7.58,7.5,chilón
+83,Arabica,Mexico,1400.0,Washed / Wet,7.75,7.67,7.67,7.75,7.33,7.5,totutla
+83,Arabica,Guatemala,1524.0,Washed / Wet,7.83,7.5,7.5,8.0,7.67,7.5,atitlan
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.58,7.58,7.67,7.67,7.67,huila
+83,Arabica,Guatemala,1402.08,Washed / Wet,7.5,7.5,7.75,7.5,8.0,7.67,oriente
+83,Arabica,Indonesia,1600.0,Washed / Wet,7.83,7.58,7.58,7.58,7.75,7.58,bondowoso
+83,Arabica,Colombia,439.0,Washed / Wet,7.5,7.58,7.58,7.5,7.75,7.83,huila
+83,Arabica,Guatemala,1700.0,Washed / Wet,7.67,7.75,7.5,7.58,7.58,7.67,san marcos
+83,Arabica,Colombia,442.0,Washed / Wet,7.67,7.67,7.5,7.67,7.67,7.58,huila
+83,Arabica,Costa Rica,1850.0,Washed / Wet,7.58,7.5,7.42,7.92,7.5,7.67,tarrazu
+83,Arabica,Uganda,1800.0,Washed / Wet,7.58,7.75,7.33,7.75,7.67,7.58,eastern
+83,Arabica,Thailand,1200.0,Washed / Wet,7.5,7.58,7.75,7.5,7.75,7.67,thailand
+83,Arabica,El Salvador,1330.0,Washed / Wet,7.58,7.5,7.75,7.58,7.75,7.67,apaneca
+83,Arabica,Colombia,442.0,Natural / Dry,7.58,7.67,7.58,7.67,7.58,7.67,huila
+83,Arabica,Brazil,1310.64,Semi-washed / Semi-pulped,7.33,7.83,7.75,7.5,7.42,7.83,vale da grama
+83,Arabica,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.75,7.67,7.58,7.67,7.58,7.58,karatu northern
+83,Arabica,Colombia,1813.0,Washed / Wet,7.58,7.58,7.25,7.75,7.75,8.58,huila
+83,Arabica,Guatemala,1219.2,Natural / Dry,7.75,7.83,7.33,7.83,7.5,7.67,oriente
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.5,antigua
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.67,7.5,7.75,7.42,7.75,7.75,oriente
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.42,7.75,7.67,7.58,7.67,7.67,kona
+83,Arabica,Colombia,1450.0,Washed / Wet,7.5,7.75,7.58,7.5,7.67,7.75,cundinamarca
+83,Arabica,Colombia,1310.64,Washed / Wet,7.58,7.58,7.58,7.67,7.75,7.67,huila
+83,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.5,7.92,7.42,7.67,7.83,7.58,kona
+83,Arabica,Mexico,1050.0,Washed / Wet,7.25,7.88,7.38,7.63,7.5,8.75,nayarit
+83,Arabica,Colombia,1650.0,Washed / Wet,7.75,7.5,7.75,7.58,7.58,7.58,huila
+83,Arabica,Colombia,1310.64,Washed / Wet,7.67,7.58,7.58,7.42,7.67,7.75,guayata
+83,Arabica,Colombia,1310.64,Washed / Wet,7.83,7.58,7.58,7.58,7.5,7.58,huila
+83,Arabica,Brazil,1227.0,Semi-washed / Semi-pulped,7.5,7.83,7.33,7.58,7.58,7.92,south of minas
+83,Arabica,Mexico,1200.0,Washed / Wet,7.75,7.75,7.5,7.67,7.5,7.58,chiapas
+83,Arabica,Colombia,1650.0,Washed / Wet,7.67,7.75,7.42,7.83,7.83,7.42,santander
+83,Arabica,"Tanzania, United Republic Of",1700.0,Semi-washed / Semi-pulped,7.75,7.58,7.67,7.58,7.58,7.58,arusha
+83,Arabica,Mexico,1100.0,Washed / Wet,7.67,7.67,7.58,7.67,7.5,7.58,veracruz
+83,Arabica,Costa Rica,1300.0,Washed / Wet,7.67,7.67,7.42,7.67,7.67,7.67,san ramon
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.83,7.58,7.83,7.67,7.92,8.0,kona
+83,Arabica,Costa Rica,1200.0,Washed / Wet,7.5,7.67,7.67,7.5,7.83,7.17,central valley
+83,Arabica,Haiti,1280.16,Washed / Wet,7.58,7.5,7.67,7.5,7.83,7.42,"thiotte, haiti"
+83,Arabica,Colombia,1000.0,Natural / Dry,7.67,7.67,7.5,7.67,7.92,7.42,pitalito
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.83,7.67,7.17,7.67,7.67,7.67,oriente
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.92,7.5,7.58,7.83,7.67,7.67,kona
+83,Arabica,Burundi,1880.0,Washed / Wet,7.75,7.67,7.33,7.5,7.5,7.75,kayanza
+83,Arabica,Colombia,1750.0,Washed / Wet,7.5,7.67,7.67,7.58,7.67,7.58,huila
+83,Arabica,United States (Hawaii),1310.64,Washed / Wet,8.08,7.83,7.83,7.75,7.67,7.58,kona
+83,Arabica,Mexico,1600.0,Washed / Wet,7.67,7.83,7.42,7.83,7.33,7.5,sierra madre occidental
+83,Arabica,Costa Rica,1900.0,Pulped natural / honey,7.5,7.5,7.83,7.5,7.67,7.67,tarrazu
+83,Arabica,Costa Rica,1310.64,Washed / Wet,7.83,7.5,7.42,7.67,7.5,7.67,tarrazu
+83,Arabica,Guatemala,2100.0,Washed / Wet,7.5,7.58,7.42,7.83,7.67,7.58,nuevo oriente
+83,Arabica,Uganda,1310.64,Washed / Wet,7.5,7.67,7.67,7.42,7.67,7.67,"sipi, mt elgon"
+83,Arabica,Brazil,1310.64,Washed / Wet,7.58,7.67,7.42,7.5,7.67,7.42,campos altos - cerrado
+83,Arabica,Colombia,442.0,Natural / Dry,7.58,7.67,7.67,7.17,7.75,7.83,huila
+83,Arabica,Mexico,1261.0,Natural / Dry,7.83,7.75,7.5,7.58,7.58,7.58,cuarenteño
+83,Arabica,Taiwan,1000.0,Washed / Wet,7.67,7.5,7.5,7.5,7.67,7.83,natou county
+83,Arabica,Taiwan,800.0,Washed / Wet,7.92,7.83,7.75,7.58,7.5,7.33,南投國姓
+83,Arabica,Colombia,1483.0,Natural / Dry,7.58,7.58,7.5,7.58,7.58,7.75,eje cafetero
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.5,7.67,7.58,7.67,7.67,7.5,antigua
+83,Arabica,Colombia,1750.0,Washed / Wet,7.83,7.5,7.67,7.33,7.67,7.67,huila
+83,Arabica,Mexico,1300.0,Washed / Wet,7.58,7.75,7.5,7.5,7.58,7.58,chiapas
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.58,7.75,7.83,8.0,8.08,7.67,kona
+83,Arabica,Mexico,1310.64,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,veracruz
+83,Arabica,Mexico,1000.0,Washed / Wet,7.75,7.75,7.42,7.92,7.33,7.5,fortín de las flores
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.83,7.58,7.08,7.83,7.42,8.08,oriente
+83,Arabica,Brazil,1200.0,Semi-washed / Semi-pulped,7.75,7.67,7.5,7.58,7.58,7.58,grama valley
+83,Arabica,Colombia,175.0,Washed / Wet,7.67,7.58,7.58,7.42,7.83,7.58,huila
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.67,7.5,7.5,7.58,7.67,la plata
+83,Arabica,Colombia,1700.0,Washed / Wet,7.92,7.75,7.25,7.42,7.83,7.58,huila
+83,Arabica,Colombia,1880.0,Washed / Wet,8.0,7.67,7.67,7.25,7.67,7.5,cauca
+83,Arabica,Colombia,1800.0,Washed / Wet,7.92,7.75,7.5,7.42,7.42,7.67,cundinamarca
+83,Arabica,Brazil,890.0,Natural / Dry,7.67,7.42,7.5,7.58,7.67,7.58,south of minas
+83,Arabica,Guatemala,1901.0,Washed / Wet,7.58,7.58,7.33,7.67,7.75,7.58,oriente
+83,Arabica,"Tanzania, United Republic Of",168.0,Washed / Wet,7.67,7.58,7.42,7.67,7.67,7.58,moshi
+83,Arabica,Vietnam,1550.0,Natural / Dry,7.58,7.42,7.08,7.33,7.58,8.58,dala
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.67,7.75,7.42,7.75,7.58,7.5,antigua
+83,Arabica,Honduras,1450.0,Washed / Wet,7.67,7.67,7.5,7.67,7.5,7.67,marcala
+83,Arabica,China,1200.0,Washed / Wet,7.5,7.67,7.33,7.67,7.67,7.67,yunnan
+83,Arabica,China,1600.0,Washed / Wet,7.67,7.67,7.5,7.67,7.42,7.58,dehong prefecture
+83,Arabica,El Salvador,1350.0,Washed / Wet,7.5,7.5,7.33,7.67,8.0,7.67,apaneca
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.5,7.75,7.5,7.83,7.58,7.5,antigua
+83,Arabica,Guatemala,1650.0,Washed / Wet,7.92,7.67,7.42,7.75,7.5,7.5,oriente
+83,Arabica,Kenya,250.5,Washed / Wet,7.83,7.75,7.67,7.75,7.83,8.5,kenya
+83,Arabica,Thailand,800.0,Washed / Wet,7.67,7.58,7.58,7.75,7.42,7.67,thailand
+83,Arabica,"Tanzania, United Republic Of",1653.0,Washed / Wet,7.58,7.67,7.67,7.58,7.42,7.58,mbinga
+83,Arabica,Colombia,1775.0,Washed / Wet,7.58,7.5,7.5,7.67,7.5,7.67,huila
+83,Arabica,Uganda,1800.0,Washed / Wet,8.0,7.67,7.5,7.42,7.33,7.58,eastern
+83,Arabica,Honduras,1450.0,Natural / Dry,7.5,7.5,7.5,7.67,7.67,7.67,san marcos
+83,Arabica,Honduras,1350.0,Natural / Dry,7.67,7.67,7.5,7.67,7.5,7.67,comayagua
+83,Arabica,Guatemala,1524.0,Washed / Wet,7.33,7.83,7.17,8.17,7.33,7.67,san marcos
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.5,7.58,7.42,7.92,7.67,kona
+83,Arabica,"Tanzania, United Republic Of",1800.0,Washed / Wet,7.58,7.5,7.58,7.75,7.58,7.58,kilimanjaro
+83,Arabica,Guatemala,1310.64,Washed / Wet,7.67,7.83,7.33,7.67,7.5,7.67,oriente
+83,Arabica,Mexico,1500.0,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.42,chiapas
+83,Arabica,Mexico,532.0,Washed / Wet,7.75,7.67,7.58,7.5,7.42,7.58,"tlanchinol, hidalgo"
+83,Arabica,Mexico,1089.0,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.58,san bartolo tutotepec
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.5,7.5,7.5,7.58,8.17,huila
+83,Arabica,Mexico,700.0,Washed / Wet,7.75,7.5,7.42,7.75,7.58,7.58,san isidro
+83,Arabica,Colombia,1750.0,Washed / Wet,7.58,7.67,7.5,7.58,7.67,7.67,huila
+83,Arabica,Mexico,1380.0,Washed / Wet,7.5,7.75,7.58,7.58,7.67,7.5,la concordia
+83,Arabica,Brazil,1000.0,Natural / Dry,7.75,7.67,7.58,7.5,7.58,7.58,south of minas
+83,Arabica,Brazil,950.0,Natural / Dry,7.92,7.58,7.5,7.58,7.42,7.5,mogiana
+83,Arabica,Guatemala,1402.08,Washed / Wet,7.75,7.5,7.67,7.5,7.92,8.0,oriente
+83,Arabica,Brazil,1000.0,Semi-washed / Semi-pulped,7.75,7.5,7.58,7.5,7.75,7.5,south of minas
+83,Arabica,Brazil,900.0,Washed / Wet,7.58,7.75,7.67,7.5,7.67,7.58,south of minas
+83,Arabica,El Salvador,1200.0,Washed / Wet,7.42,7.83,8.17,8.08,7.17,7.58,santa ana
+83,Arabica,Ethiopia,1850.0,Washed / Wet,7.75,8.0,7.67,8.08,7.83,7.92,limu
+83,Arabica,Colombia,1799.0,Washed / Wet,7.58,7.67,7.33,7.67,7.75,7.58,cundinamarca
+83,Arabica,Colombia,1310.64,Washed / Wet,7.75,7.5,7.5,7.42,8.0,7.75,huila
+83,Arabica,Brazil,905.0,Pulped natural / honey,7.58,7.58,7.58,7.5,7.67,7.58,south of minas
+83,Arabica,Brazil,1.0,Natural / Dry,7.33,7.67,7.67,7.33,7.75,7.42,south of minas
+83,Arabica,Taiwan,750.0,Natural / Dry,7.83,7.92,7.5,7.83,7.67,7.25,"dongshan dist., tainan city 臺南市東山區"
+83,Arabica,Brazil,1310.64,Natural / Dry,7.42,7.67,7.58,7.5,7.75,7.67,chapadão de ferro (cerrado mineiro)
+83,Arabica,Brazil,1200.0,Washed / Wet,7.58,7.83,7.67,7.42,7.42,7.5,south of minas
+83,Arabica,Costa Rica,1300.0,Washed / Wet,7.83,7.33,7.5,7.67,7.58,7.67,central valley
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.33,7.75,7.58,7.33,7.83,7.67,kona
+83,Arabica,Taiwan,1300.0,Other,7.75,7.75,7.5,7.5,7.5,7.5,chiayi alishan 嘉義縣阿里山鄉
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.83,7.83,7.33,7.17,7.75,7.67,kona
+83,Arabica,Mexico,1400.0,Washed / Wet,7.75,7.67,7.42,7.75,7.5,7.5,santa catarina juquila
+83,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.67,7.58,7.5,7.67,7.92,8.0,kona
+83,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.33,7.58,7.58,7.92,7.67,7.58,kona
+83,Arabica,Colombia,1775.0,Washed / Wet,7.33,7.33,7.33,7.58,7.25,8.08,huila
+83,Arabica,Colombia,1880.0,Washed / Wet,7.83,7.75,7.33,7.25,7.42,7.92,cauca
+83,Arabica,Indonesia,1350.0,Washed / Wet,7.67,7.58,7.5,7.58,7.67,7.58,dolok sanggul
+83,Arabica,Brazil,890.0,Natural / Dry,7.58,7.5,7.5,7.75,7.67,7.5,south of minas
+83,Arabica,Brazil,894.0,Natural / Dry,7.5,7.58,7.58,7.67,7.58,7.5,south of minas
+83,Arabica,Brazil,872.0,Natural / Dry,7.5,7.67,7.58,7.67,7.58,7.42,south of minas
+83,Arabica,Uganda,1473.0,Washed / Wet,7.67,7.58,7.42,7.42,7.83,7.5,"kasese, mt. rwenzori"
+83,Arabica,Uganda,1645.0,Natural / Dry,7.67,7.67,7.5,7.58,7.42,7.5,"kasese, mt. rwenzori"
+83,Arabica,Colombia,442.0,Washed / Wet,7.67,7.67,7.33,7.67,7.5,7.58,huila
+83,Arabica,Vietnam,1550.0,Other,7.75,7.67,7.58,7.58,7.42,7.67,vietnam cau dat
+83,Arabica,Guatemala,1550.0,Washed / Wet,7.67,7.75,7.33,7.92,7.42,7.5,nuevo oriente
+83,Arabica,Guatemala,1371.6,Washed / Wet,7.75,7.67,7.33,7.75,7.5,7.42,"el tumbador, san marcos"
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.83,7.67,7.25,7.67,7.75,7.5,antigua
+83,Arabica,Brazil,1000.0,Natural / Dry,7.67,7.67,7.67,7.5,7.42,7.5,high mogiana
+83,Arabica,Taiwan,1200.0,Washed / Wet,7.92,7.92,7.83,7.58,7.33,7.25,嘉義阿里山
+83,Arabica,Uganda,1800.0,Washed / Wet,7.83,7.58,7.5,7.5,7.58,7.5,kapchorwa
+83,Arabica,United States (Puerto Rico),853.44,Washed / Wet,7.67,7.5,7.67,7.83,7.75,7.83,yauco region
+83,Arabica,Guatemala,1500.0,Washed / Wet,7.67,7.67,7.42,7.83,7.5,7.5,antigua
+83,Arabica,Costa Rica,1200.0,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,central valley
+83,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,7.75,7.58,7.42,7.67,7.42,7.67,sul de minas
+83,Arabica,Colombia,1775.0,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.17,huila
+83,Arabica,Colombia,1750.0,Washed / Wet,7.83,7.5,7.58,7.33,7.5,7.67,huila
+83,Arabica,Colombia,1000.0,Natural / Dry,7.33,7.67,7.75,7.42,7.75,7.58,pitalito
+83,Arabica,Colombia,1000.0,Natural / Dry,7.58,7.75,7.42,7.67,7.58,7.42,pitalito
+83,Arabica,Colombia,1775.0,Washed / Wet,7.5,7.5,7.42,7.58,7.75,7.58,huila
+83,Arabica,Mexico,750.0,Washed / Wet,7.67,7.58,7.42,7.5,7.67,7.58,coatepec
+83,Arabica,Mexico,1200.0,Semi-washed / Semi-pulped,7.67,7.83,7.5,7.58,7.58,7.67,atoyac de alvarez
+83,Arabica,Mexico,1200.0,Washed / Wet,7.5,7.67,7.5,7.5,7.58,7.58,coatepec
+83,Arabica,Colombia,1625.0,Washed / Wet,7.75,7.58,7.5,7.67,7.83,7.75,huila
+83,Arabica,Colombia,1750.0,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.42,huila
+83,Arabica,Guatemala,1371.6,Washed / Wet,7.5,7.67,7.5,7.67,7.5,7.83,"la reforma, san marcos"
+83,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.67,7.58,7.5,7.67,7.42,la plata
+83,Arabica,Colombia,1450.0,Washed / Wet,7.33,7.67,7.58,7.33,7.58,7.92,cauca
+83,Arabica,Colombia,1800.0,Washed / Wet,7.5,7.58,7.67,7.67,7.58,7.58,huila
+83,Arabica,Nicaragua,1310.64,Washed / Wet,7.58,7.83,7.75,7.92,7.92,8.08,matagalpa
+82,Arabica,Brazil,890.0,Natural / Dry,7.67,7.58,7.5,7.58,7.58,7.5,south of minas
+82,Arabica,El Salvador,1350.0,Washed / Wet,7.5,7.5,7.75,7.58,7.92,7.83,apaneca
+82,Arabica,Colombia,1500.0,Washed / Wet,7.58,7.67,7.5,7.33,7.67,7.58,guayata
+82,Arabica,Taiwan,350.0,Natural / Dry,7.17,7.83,7.25,7.67,7.67,7.58,"dongshan dist., tainan city 臺南市東山區"
+82,Arabica,Ethiopia,2000.0,Washed / Wet,7.58,7.58,7.5,7.5,7.58,7.58,"blida,kercha,guji,oromia"
+82,Arabica,Taiwan,775.0,Natural / Dry,7.5,7.58,7.67,7.33,7.5,7.75,台東太麻里
+82,Arabica,Philippines,1200.0,Washed / Wet,7.58,7.58,7.67,7.58,7.5,7.5,"bukidnon, mindanao, philppines"
+82,Arabica,Philippines,1600.0,Washed / Wet,8.08,7.5,7.67,7.42,7.33,7.5,asia pacific
+82,Arabica,Mexico,1059.0,Natural / Dry,7.83,7.67,7.25,7.58,7.5,7.5,cuarenteño
+82,Arabica,Mexico,1300.0,Washed / Wet,7.75,7.67,7.42,7.42,7.75,7.5,chiapas
+82,Arabica,Brazil,11000.0,Semi-washed / Semi-pulped,7.08,7.5,7.5,7.83,7.75,7.67,cerrado
+82,Arabica,Uganda,1650.0,Washed / Wet,8.0,7.5,7.5,7.58,7.33,7.42,eastern
+82,Arabica,Uganda,1400.0,Washed / Wet,7.75,7.58,7.58,7.5,7.5,7.5,west nile
+82,Arabica,Guatemala,1500.0,Washed / Wet,7.75,7.5,7.42,7.58,7.67,7.5,antigua
+82,Arabica,Guatemala,1500.0,Natural / Dry,7.67,7.83,7.42,7.5,7.33,7.5,antigua
+82,Arabica,Colombia,1900.0,Washed / Wet,7.58,7.5,7.75,7.33,7.58,7.58,huila
+82,Arabica,Colombia,1750.0,Natural / Dry,7.75,7.5,7.25,7.5,7.75,7.5,huila
+82,Arabica,Guatemala,1706.88,Washed / Wet,7.83,7.75,7.25,7.92,7.5,7.17,huehuetenango
+82,Arabica,Colombia,1450.0,Washed / Wet,7.83,7.67,7.42,7.42,7.5,7.58,antioquia
+82,Arabica,Mexico,1248.0,Natural / Dry,7.58,7.58,7.33,7.25,7.58,7.75,petatlan
+82,Arabica,Vietnam,1040.0,Natural / Dry,7.67,7.33,7.17,7.58,8.08,7.42,don duong
+82,Arabica,Mexico,1400.0,Washed / Wet,8.0,7.92,7.67,7.17,7.67,7.42,la cumbre
+82,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.5,7.5,7.5,7.42,7.67,7.83,kona
+82,Arabica,Colombia,1450.0,Washed / Wet,7.5,7.75,7.33,7.75,7.08,7.83,cauca
+82,Arabica,Kenya,1754.0,Washed / Wet,7.75,7.58,7.42,7.58,7.5,7.5,nyeri
+82,Arabica,Guatemala,1700.0,Washed / Wet,7.5,7.58,7.33,7.67,7.58,7.58,san marcos
+82,Arabica,Brazil,905.0,Pulped natural / honey,7.67,7.58,7.58,7.5,7.5,7.42,south of minas
+82,Arabica,El Salvador,1250.0,Washed / Wet,7.33,7.67,7.67,7.83,7.33,7.67,"el balsamo, quezaltepec"
+82,Arabica,Rwanda,1900.0,Washed / Wet,7.83,7.92,7.75,7.83,7.75,7.75,gicumbi
+82,Arabica,Vietnam,1040.0,Other,7.25,7.58,7.5,7.42,7.75,7.42,vietnam tutra
+82,Arabica,Guatemala,1219.2,Washed / Wet,7.58,7.58,7.33,7.67,7.67,7.5,oriente
+82,Arabica,Brazil,900.0,Natural / Dry,7.58,7.83,7.33,7.67,7.42,7.33,cerrado
+82,Arabica,Colombia,1600.0,Washed / Wet,7.83,7.67,7.5,7.58,7.5,7.67,huila
+82,Arabica,United States,1200.0,Other,7.42,7.58,7.25,7.5,7.75,7.75,berastagi
+82,Arabica,Guatemala,1500.0,Washed / Wet,7.67,7.67,7.75,7.67,7.42,7.17,antigua
+82,Arabica,Colombia,1800.0,Natural / Dry,7.5,7.42,7.58,7.5,7.58,7.58,santander
+82,Arabica,Colombia,1775.0,Washed / Wet,7.83,7.5,7.5,7.42,7.5,7.5,huila
+82,Arabica,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.67,7.5,7.33,7.25,7.58,7.75,arusha
+82,Arabica,Mexico,1550.0,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.5,la concordia
+82,Arabica,Mexico,1250.0,Washed / Wet,7.67,7.58,7.42,7.75,7.42,7.42,veracruz
+82,Arabica,Guatemala,1310.64,Washed / Wet,7.67,7.67,7.33,7.5,7.33,7.92,oriente
+82,Arabica,Mexico,1380.0,Washed / Wet,7.58,7.58,7.5,7.42,7.67,7.58,la concordia
+82,Arabica,El Salvador,1200.0,Washed / Wet,7.75,7.58,7.75,7.75,7.25,7.5,santa ana
+82,Arabica,Guatemala,1100.0,Washed / Wet,7.5,7.58,7.42,7.67,7.58,7.5,santa rosa
+82,Arabica,Guatemala,1800.0,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.42,santa rosa
+82,Arabica,Guatemala,1700.0,Washed / Wet,7.5,7.67,7.17,7.67,7.67,7.58,san marcos
+82,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.5,7.42,7.58,7.67,7.5,santa rosa
+82,Arabica,Guatemala,1219.2,Washed / Wet,7.42,7.58,7.42,7.67,7.5,7.5,oriente
+82,Arabica,Indonesia,1500.0,Other,7.5,7.58,7.42,7.58,7.58,7.5,sapan toraja
+82,Arabica,Guatemala,157.8864,Washed / Wet,7.58,7.58,7.33,7.58,7.33,7.67,el progreso
+82,Arabica,Taiwan,650.0,Natural / Dry,7.83,7.67,7.33,7.67,7.58,7.67,"台南市東山區( dongshan dist., tainan city)"
+82,Arabica,El Salvador,1250.0,Washed / Wet,7.67,7.67,7.17,7.33,7.58,7.67,cacahuatique
+82,Arabica,Costa Rica,1850.0,Washed / Wet,7.58,7.5,7.42,7.67,7.42,7.5,tarrazu
+82,Arabica,Honduras,1400.0,Natural / Dry,7.58,7.5,7.42,7.58,7.5,7.5,comayagua
+82,Arabica,Brazil,905.0,Pulped natural / honey,7.5,7.5,7.58,7.5,7.58,7.58,south of minas
+82,Arabica,China,1100.0,Natural / Dry,7.67,7.5,7.33,7.33,7.67,7.67,yunnan
+82,Arabica,China,1500.0,Washed / Wet,7.5,7.67,7.42,7.67,7.5,7.5,menglian
+82,Arabica,Colombia,1775.0,Washed / Wet,7.5,7.58,7.58,7.75,7.33,7.5,huila
+82,Arabica,Malawi,1442.0,Washed / Wet,7.75,7.58,7.42,7.5,7.33,7.5,mzuzu
+82,Arabica,Guatemala,1524.0,Washed / Wet,7.75,7.42,7.25,7.75,7.5,7.67,jalapa
+82,Arabica,Colombia,165.0,Washed / Wet,7.67,7.42,7.42,7.58,7.33,7.67,huila
+82,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.67,7.58,7.42,7.83,7.33,7.5,kona
+82,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.58,7.83,7.75,7.75,7.42,8.0,kona
+82,Arabica,Colombia,1300.0,Washed / Wet,7.58,7.33,7.17,7.33,7.25,8.58,antioquia
+82,Arabica,Mexico,1550.0,Washed / Wet,7.58,7.58,7.5,7.5,7.5,7.5,chiapas
+82,Arabica,Mexico,1200.0,Washed / Wet,7.58,7.58,7.33,7.75,7.25,7.58,veracruz
+82,Arabica,Mexico,1200.0,Natural / Dry,8.08,8.17,8.0,8.0,7.83,7.92,atoyac de alvarez
+82,Arabica,Colombia,1625.0,Washed / Wet,7.5,7.58,7.42,7.67,7.5,7.58,south huila
+82,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.58,7.58,7.58,7.5,7.42,huila
+82,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.25,7.75,7.5,7.83,7.67,7.67,kona
+82,Arabica,Panama,1100.0,Washed / Wet,7.42,7.42,7.5,7.58,7.5,7.75,boquete
+82,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.75,7.67,7.5,7.83,7.17,7.42,kona
+82,Arabica,Brazil,890.0,Natural / Dry,7.5,7.58,7.25,7.75,7.58,7.5,south of minas
+82,Arabica,Brazil,934.0,Natural / Dry,7.5,7.58,7.5,7.67,7.5,7.42,south of minas
+82,Arabica,Laos,1300.0,Washed / Wet,7.67,7.67,7.42,7.42,7.42,7.5,"paksong,laos"
+82,Arabica,El Salvador,1200.0,Washed / Wet,7.67,7.67,7.67,7.67,7.5,7.67,"el balsamo, quezaltepec"
+82,Arabica,Mexico,1300.0,Washed / Wet,7.5,7.67,7.42,7.75,7.42,7.17,veracruz
+82,Arabica,Colombia,1310.64,Washed / Wet,7.75,7.5,7.33,7.58,7.33,7.75,huila
+82,Arabica,Brazil,1.0,Natural / Dry,7.58,7.5,7.42,7.67,7.5,7.5,south of minas
+82,Arabica,Brazil,1310.64,Natural / Dry,7.33,7.5,7.58,7.58,7.67,7.5,monte carmelo
+82,Arabica,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.58,karatu arusha
+82,Arabica,"Tanzania, United Republic Of",1550.0,Washed / Wet,7.58,7.5,7.5,7.58,7.33,7.58,mbinga
+82,Arabica,Taiwan,1200.0,Washed / Wet,8.0,7.83,7.83,7.42,7.25,7.25,嘉義阿里山
+82,Arabica,Mexico,1296.0,Natural / Dry,7.67,7.58,7.42,7.5,7.42,7.5,la yerba
+82,Arabica,Uganda,1650.0,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.5,mt elgon
+82,Arabica,Taiwan,1240.0,Washed / Wet,7.67,7.5,7.5,7.5,7.5,7.5,chiayi alishan 嘉義縣阿里山鄉
+82,Arabica,Thailand,1500.0,Washed / Wet,7.42,7.5,7.5,7.67,7.58,7.5,phahi
+82,Arabica,Colombia,1800.0,Washed / Wet,7.75,7.58,7.67,7.25,7.58,7.42,huila
+82,Arabica,Guatemala,1500.0,Washed / Wet,7.67,7.67,7.17,7.67,7.5,7.5,antigua
+82,Arabica,Thailand,1310.64,Washed / Wet,7.83,7.33,7.83,7.33,7.58,7.83,thailand
+82,Arabica,Mexico,950.0,Washed / Wet,7.5,7.58,7.58,7.58,7.42,7.42,mahuixtlan
+82,Arabica,Colombia,3850.0,Washed / Wet,7.33,7.58,7.42,7.42,7.67,7.67,52 narino (exact location: mattituy; municipal region: florida code 381
+82,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.83,7.67,7.5,7.67,7.5,7.58,kona
+82,Arabica,Mexico,1400.0,Washed / Wet,7.75,7.58,7.25,7.75,7.67,7.58,mexico
+82,Arabica,Colombia,1800.0,Washed / Wet,8.08,7.67,7.67,7.33,7.33,7.17,huila
+82,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.42,7.42,7.75,7.5,7.5,oriente
+82,Arabica,Taiwan,1050.0,Pulped natural / honey,7.67,7.42,7.5,7.42,7.58,7.5,國姓鄉 guoshing township
+82,Arabica,Brazil,1310.64,Pulped natural / honey,7.5,7.58,7.42,7.5,7.75,7.33,south of minas
+82,Arabica,Taiwan,200.0,Washed / Wet,7.25,7.25,7.0,7.08,7.0,7.0,changhua baguashan 彰化市八卦山
+82,Arabica,Brazil,1310.64,Washed / Wet,7.42,7.42,7.5,7.33,7.25,7.67,campos altos - cerrado
+82,Arabica,Indonesia,1250.0,Semi-washed / Semi-pulped,7.83,7.58,7.42,7.33,7.42,7.5,aceh
+82,Arabica,Thailand,800.0,Washed / Wet,7.75,7.33,7.42,7.67,7.42,7.5,thailand
+82,Arabica,Thailand,1450.0,Washed / Wet,7.42,7.58,7.58,7.42,7.58,7.5,chiangrai
+82,Arabica,"Tanzania, United Republic Of",1317.0,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.5,ikand village
+82,Arabica,Uganda,1650.0,Natural / Dry,7.83,7.5,7.42,7.58,7.42,7.42,eastern
+82,Arabica,Costa Rica,1300.0,Washed / Wet,7.67,7.42,7.5,7.67,7.0,7.75,central valley
+82,Arabica,Mexico,1310.64,Washed / Wet,7.58,7.58,7.42,7.75,7.67,7.67,veracruz
+82,Arabica,Colombia,1750.0,Washed / Wet,7.75,7.25,7.33,7.42,7.5,7.83,huila
+82,Arabica,Colombia,1750.0,Washed / Wet,7.75,7.5,7.75,7.25,7.33,7.58,huila
+82,Arabica,Colombia,1750.0,Washed / Wet,7.58,7.5,7.42,7.58,7.67,7.42,huila
+82,Arabica,Mexico,1250.0,Washed / Wet,7.5,7.58,7.5,7.5,7.42,7.5,oaxaca
+82,Arabica,Mexico,1150.0,Washed / Wet,7.67,7.58,7.58,7.75,7.67,6.83,colima
+82,Arabica,Colombia,1775.0,Washed / Wet,7.33,7.42,7.58,7.42,7.67,7.5,huila
+82,Arabica,Brazil,975.0,Washed / Wet,7.58,7.5,7.33,7.75,7.5,7.5,south of minas
+82,Arabica,Brazil,890.0,Natural / Dry,7.5,7.5,7.5,7.5,7.58,7.5,south of minas
+82,Arabica,Indonesia,1250.0,Washed / Wet,7.83,7.75,7.25,7.5,7.42,7.33,bali
+82,Arabica,Honduras,1400.0,Washed / Wet,7.58,7.58,7.33,7.5,7.5,7.5,comayagua
+82,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.5,7.33,7.5,7.67,7.5,oriente
+82,Arabica,Thailand,800.0,Washed / Wet,7.5,7.83,7.5,7.75,7.33,7.42,thailand
+82,Arabica,Thailand,1450.0,Washed / Wet,7.33,7.5,7.5,7.5,7.67,7.5,chiangrai
+82,Arabica,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.67,7.42,7.33,7.58,7.5,7.5,karatu arusha
+82,Arabica,"Tanzania, United Republic Of",1310.64,Washed / Wet,7.75,7.0,7.42,7.58,7.58,7.58,moshi
+82,Arabica,Mexico,1600.0,Washed / Wet,7.42,7.58,7.5,7.67,7.25,7.5,chiapas
+82,Arabica,Brazil,1260.0,Semi-washed / Semi-pulped,7.42,7.5,7.67,7.33,7.42,7.67,south of minas
+82,Arabica,Guatemala,1310.64,Washed / Wet,7.83,7.42,7.33,7.67,7.42,7.5,oriente
+82,Arabica,Colombia,1750.0,Washed / Wet,7.5,7.5,7.42,7.42,7.58,7.58,huila
+82,Arabica,Guatemala,1310.64,Washed / Wet,7.83,7.67,7.17,7.33,7.5,7.67,oriente
+82,Arabica,Mexico,1679.0,Washed / Wet,7.5,7.58,7.5,7.5,7.42,7.42,san bartolo tutotepec
+82,Arabica,Mexico,1100.0,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,zapotitlan de mendez
+82,Arabica,Mexico,1650.0,Semi-washed / Semi-pulped,7.92,7.5,7.33,7.58,7.25,7.42,la concordia
+82,Arabica,Guatemala,1310.64,Natural / Dry,7.67,7.33,7.33,7.33,7.5,7.83,oriente
+82,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,7.67,7.42,7.33,7.67,7.5,7.5,carmo de minas
+82,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.5,7.33,7.5,7.25,7.67,huila
+82,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.33,7.42,7.33,7.75,7.42,7.67,kona
+82,Arabica,Guatemala,1600.0,Washed / Wet,7.75,7.58,7.67,7.67,7.58,7.58,huehuetenango
+82,Arabica,Honduras,1500.0,Washed / Wet,7.42,7.67,7.17,7.58,7.58,7.5,"comayagua, honduras"
+82,Arabica,Guatemala,1700.0,Washed / Wet,7.58,7.5,7.33,7.75,7.33,7.5,san marcos
+82,Arabica,Guatemala,1700.0,Washed / Wet,7.67,7.58,7.25,7.67,7.42,7.33,san marcos
+82,Arabica,Guatemala,157.8864,Washed / Wet,7.58,7.5,7.25,7.67,7.5,7.5,el progreso
+82,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.42,7.08,7.75,7.67,7.5,santa rosa
+82,Arabica,Colombia,1600.0,Washed / Wet,5.08,7.75,7.83,7.75,7.83,8.08,guayata
+82,Arabica,China,1600.0,Washed / Wet,7.67,7.42,7.42,7.5,7.42,7.42,yunnan
+82,Arabica,Brazil,1310.64,Washed / Wet,7.42,7.5,7.33,7.5,7.25,7.42,campos altos - cerrado
+82,Arabica,"Tanzania, United Republic Of",2285.0,Washed / Wet,7.67,7.25,7.42,7.42,7.67,7.42,arusha meru
+82,Arabica,Brazil,1.0,Natural / Dry,7.17,7.83,7.33,7.5,7.75,7.42,south of minas
+82,Arabica,Guatemala,1400.0,Washed / Wet,7.5,7.5,7.5,7.67,7.42,7.5,atitlan
+82,Arabica,Mexico,1296.0,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,la yerba
+82,Arabica,Brazil,1000.0,Semi-washed / Semi-pulped,7.58,7.67,7.33,7.5,7.5,7.42,south of minas
+82,Arabica,Peru,1310.64,Washed / Wet,7.58,7.58,7.58,7.75,7.5,7.58,peru
+82,Arabica,Brazil,1260.0,Natural / Dry,7.25,7.33,7.25,7.5,7.42,7.5,south of minas
+82,Arabica,Mexico,1170.0,Washed / Wet,7.5,7.58,7.5,7.92,7.42,7.67,veracruz
+82,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.42,7.33,7.5,7.58,7.5,huila
+82,Arabica,Mexico,1560.0,Washed / Wet,7.5,7.42,7.42,7.67,7.42,7.58,chiapas
+82,Arabica,Mexico,1400.0,Semi-washed / Semi-pulped,7.42,7.58,7.5,7.42,7.58,7.5,san pedro cotzilnam
+82,Arabica,Mexico,1300.0,Washed / Wet,7.42,7.58,7.33,7.58,7.5,7.5,coatepec
+82,Arabica,Mexico,1170.0,Washed / Wet,7.75,7.33,7.25,7.58,7.58,7.33,xalapa
+82,Arabica,Mexico,1300.0,Washed / Wet,7.5,7.58,7.33,7.5,7.5,7.5,zihuatanejo de azueta
+82,Arabica,Mexico,1350.0,Washed / Wet,7.58,7.58,7.17,7.5,7.5,7.5,veracruz
+82,Arabica,Mexico,1150.0,Washed / Wet,7.58,7.33,7.33,7.58,7.5,7.5,xicotepec de juarez
+82,Arabica,Mexico,1250.0,Washed / Wet,7.67,7.58,7.33,7.42,7.58,7.33,progreso santa rosa teocelo
+82,Arabica,Mexico,1450.0,Washed / Wet,7.83,7.5,7.42,7.67,7.17,7.33,fln mirador
+82,Arabica,Colombia,442.0,Natural / Dry,7.67,7.33,7.25,7.42,7.5,7.67,huila
+82,Arabica,Brazil,1310.64,Natural / Dry,7.75,7.5,7.42,7.42,7.5,7.42,south of minas
+82,Arabica,Colombia,1750.0,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.58,huila
+82,Arabica,Colombia,1750.0,Washed / Wet,7.58,7.25,7.42,7.25,7.58,7.83,huila
+82,Arabica,Honduras,1396.0,Washed / Wet,7.5,7.58,7.33,7.5,7.42,7.42,comayagua
+82,Arabica,Brazil,982.0,Natural / Dry,7.33,7.5,7.5,7.33,7.5,7.5,cerrado
+82,Arabica,Brazil,1310.64,Natural / Dry,7.42,7.42,7.42,7.5,7.5,7.58,cerrado
+82,Arabica,Brazil,934.0,Natural / Dry,7.5,7.5,7.42,7.5,7.42,7.5,south of minas
+82,Arabica,Costa Rica,1850.0,Washed / Wet,7.75,7.5,7.25,7.25,7.42,7.67,tarrazu
+82,Arabica,Costa Rica,1550.0,Washed / Wet,7.75,7.33,7.5,7.5,7.33,7.58,tarrazu
+82,Arabica,China,1580.0,Pulped natural / honey,7.5,7.58,7.42,7.5,7.42,7.42,xishuangbanna prefecture
+82,Arabica,Brazil,1268.0,Natural / Dry,8.25,7.83,7.25,8.33,8.17,8.08,south of minas
+82,Arabica,Brazil,1310.64,Natural / Dry,7.42,7.5,7.5,7.42,7.5,7.58,chapadão de ferro (cerrado mineiro)
+82,Arabica,Guatemala,1676.4,Washed / Wet,7.5,7.42,7.17,7.83,7.5,7.5,huehuetenango
+82,Arabica,Malawi,1450.0,Washed / Wet,7.33,7.58,7.42,7.58,7.33,7.5,mzuzu
+82,Arabica,Brazil,1100.0,Natural / Dry,7.75,8.08,7.67,8.08,8.08,8.0,south of minas
+82,Arabica,Guatemala,1524.0,Washed / Wet,7.58,7.67,7.5,7.58,7.75,7.5,jalapa
+82,Arabica,Mexico,1310.64,Washed / Wet,7.33,7.58,7.42,7.5,7.5,7.5,veracruz
+82,Arabica,Colombia,1300.0,Washed / Wet,7.42,7.33,7.5,7.17,7.08,8.33,antioquia
+82,Arabica,Taiwan,200.0,Semi-washed / Semi-pulped,7.5,7.5,7.5,7.5,7.5,7.5,changhua baguashan 彰化市八卦山
+82,Arabica,Taiwan,600.0,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.5,taichung xinshe 台中市新社區
+82,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.42,7.58,7.5,7.5,7.58,oriente
+82,Arabica,Colombia,1750.0,Washed / Wet,7.5,7.42,7.5,7.5,7.5,7.58,huila
+82,Arabica,Mexico,1300.0,Washed / Wet,7.67,7.5,7.42,7.5,7.42,7.42,"la concordia, chiapas"
+82,Arabica,Costa Rica,1310.64,Washed / Wet,7.92,7.58,7.25,7.75,7.92,7.58,central valley
+82,Arabica,Guatemala,1752.6,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,jalapa
+82,Arabica,Mexico,441.0,Natural / Dry,7.58,7.67,7.58,7.33,7.0,7.58,"jaltocan, hidalgo"
+82,Arabica,Mexico,1170.0,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,veracruz
+82,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.67,7.33,7.5,7.33,7.5,oriente
+82,Arabica,Brazil,1100.0,Natural / Dry,7.58,7.5,7.42,7.5,7.5,7.42,grama valley
+82,Arabica,Mexico,1300.0,Washed / Wet,8.0,7.75,7.33,7.33,7.08,7.67,santa catarina juquila
+82,Arabica,Brazil,950.0,Washed / Wet,7.58,7.58,7.25,7.58,7.42,7.5,south of minas
+82,Arabica,Colombia,442.0,Natural / Dry,7.83,7.58,7.33,7.25,7.58,7.42,huila
+82,Arabica,Brazil,1100.0,Washed / Wet,7.58,7.5,7.25,7.42,7.67,7.33,brazil matas de minas
+82,Arabica,Guatemala,1450.0,Washed / Wet,7.67,7.5,7.25,7.67,7.42,7.42,nuevo oriente
+82,Arabica,Brazil,1.0,Natural / Dry,7.42,7.67,7.5,7.08,7.5,7.42,south of minas
+82,Arabica,El Salvador,1500.0,Washed / Wet,7.58,7.67,7.5,7.67,7.83,8.42,apaneca
+82,Arabica,Honduras,1350.0,Washed / Wet,7.58,7.5,7.42,7.58,7.42,7.42,marcala
+82,Arabica,Malawi,1180.0,Washed / Wet,7.58,7.42,7.33,7.42,7.58,7.5,mzuzu
+82,Arabica,Brazil,1100.0,Natural / Dry,7.75,7.58,7.42,7.42,7.33,7.33,south of minas
+82,Arabica,Taiwan,650.0,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.5,nantou
+82,Arabica,Mexico,1338.0,Washed / Wet,7.58,7.58,7.42,7.42,7.42,7.42,veracruz
+82,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.33,7.42,7.5,7.67,7.5,7.42,kona
+82,Arabica,Mexico,533.0,Washed / Wet,7.58,7.58,7.5,7.17,7.42,7.42,"calnali, hidalgo"
+82,Arabica,Guatemala,1390.8024,Washed / Wet,7.5,7.5,7.33,7.58,7.67,7.33,antigua
+82,Arabica,Mexico,1170.0,Washed / Wet,7.5,7.58,7.42,7.67,7.33,7.42,veracruz
+82,Arabica,Mexico,1250.0,Washed / Wet,7.67,7.58,7.33,7.5,7.42,7.42,juquila
+82,Arabica,Mexico,1100.0,Washed / Wet,7.33,7.58,7.42,7.67,7.33,7.5,veracruz
+82,Arabica,Mexico,900.0,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,canoas
+82,Arabica,Colombia,1750.0,Washed / Wet,7.5,7.42,7.67,7.33,7.58,7.33,huila
+82,Arabica,Colombia,1775.0,Washed / Wet,7.67,7.33,7.33,7.33,7.5,7.5,huila
+82,Arabica,Colombia,1310.64,Washed / Wet,7.17,7.25,7.58,7.25,7.58,7.67,cauca
+82,Arabica,Brazil,934.0,Natural / Dry,7.42,7.42,7.5,7.42,7.42,7.5,south of minas
+82,Arabica,Honduras,1500.0,Washed / Wet,7.5,7.5,7.17,7.42,7.5,7.5,comayagua
+82,Arabica,Nicaragua,1000.0,Washed / Wet,7.5,7.5,7.33,7.42,7.5,7.42,jinotega
+82,Arabica,"Tanzania, United Republic Of",1650.0,Washed / Wet,7.58,7.42,7.42,7.33,7.5,7.42,ruvuma
+82,Arabica,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.42,7.42,7.42,7.5,7.5,7.33,northern
+82,Arabica,Brazil,1.0,Natural / Dry,6.92,7.58,7.42,7.33,7.83,7.5,south of minas
+82,Arabica,Thailand,800.0,Washed / Wet,7.42,7.42,7.17,7.75,7.25,7.67,thailand
+82,Arabica,Honduras,1350.0,Washed / Wet,7.67,7.5,7.25,7.42,7.58,7.42,marcala
+82,Arabica,Guatemala,1500.0,Washed / Wet,7.42,7.42,7.5,7.5,7.42,7.5,atitlan
+82,Arabica,Brazil,1310.64,Natural / Dry,7.58,7.5,7.42,7.25,7.5,7.42,cerrado
+82,Arabica,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.75,7.42,7.42,7.58,7.33,7.42,"ilomba vilage, mbozi"
+82,Arabica,Mexico,1100.0,Washed / Wet,7.42,7.33,7.17,7.42,7.33,8.17,veracruz
+82,Arabica,Mexico,1400.0,Washed / Wet,7.5,7.5,7.33,7.42,7.5,7.42,"la concordia, chiapas"
+82,Arabica,Taiwan,1200.0,Other,7.5,7.5,7.5,7.5,7.5,7.5,yunlin 雲林縣石壁
+82,Arabica,Taiwan,800.0,Washed / Wet,7.67,7.5,7.5,7.17,7.17,7.58,"dongshan dist., tainan city 臺南市東山區"
+82,Arabica,Colombia,1750.0,Washed / Wet,7.33,7.25,7.25,7.58,7.75,7.5,huila
+82,Arabica,Mexico,1144.0,Washed / Wet,7.5,7.67,7.0,7.5,7.33,7.5,san bartolo tutotepec
+82,Arabica,Guatemala,1350.0,Washed / Wet,7.25,7.75,7.0,7.75,8.17,7.75,oriente
+82,Arabica,Mexico,1000.0,Washed / Wet,7.5,7.58,7.25,7.5,7.5,7.33,altotonga
+82,Arabica,Mexico,1200.0,Washed / Wet,7.0,7.67,7.5,7.5,7.42,7.5,colima
+82,Arabica,Colombia,1800.0,Washed / Wet,7.58,7.67,7.42,7.17,7.17,7.75,huila
+82,Arabica,Indonesia,1300.0,Washed / Wet,7.5,7.5,7.42,7.42,7.5,7.42,aceh gayo
+82,Arabica,Colombia,1310.64,Washed / Wet,7.75,7.58,7.42,7.67,7.83,7.58,huila
+82,Arabica,Brazil,894.0,Natural / Dry,7.42,7.58,7.42,7.5,7.42,7.25,south of minas
+82,Arabica,Brazil,1.0,Natural / Dry,7.25,7.25,7.58,7.58,7.25,7.92,south of minas
+82,Arabica,Costa Rica,1300.0,Washed / Wet,7.75,7.42,7.42,7.25,7.17,7.42,tres rios
+82,Arabica,"Tanzania, United Republic Of",1500.0,Washed / Wet,7.42,7.33,7.42,7.42,7.5,7.58,kilimanjaro
+82,Arabica,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.42,7.5,7.5,7.33,7.33,7.5,ngorogoro
+82,Arabica,Costa Rica,13.0,Washed / Wet,7.58,7.33,7.33,7.33,7.5,7.67,turrialba
+82,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.25,7.58,7.58,7.25,7.5,7.42,kona
+82,Arabica,Mexico,1300.0,Washed / Wet,7.42,7.58,7.5,7.33,7.42,7.42,coatepec
+82,Arabica,Mexico,1800.0,Washed / Wet,7.5,7.42,7.42,7.5,7.25,7.5,tapachula
+82,Arabica,Mexico,1250.0,Washed / Wet,7.67,7.5,7.25,7.58,7.42,7.33,coatepec
+82,Arabica,Vietnam,1040.0,Natural / Dry,7.67,8.0,7.17,7.08,7.67,7.08,don duong
+82,Arabica,Mexico,1250.0,Washed / Wet,7.58,7.42,7.25,7.75,7.33,7.42,veracruz
+82,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.33,7.5,7.33,7.58,7.08,7.83,kona
+82,Arabica,Colombia,1600.0,Washed / Wet,7.67,7.42,7.67,7.33,7.25,7.58,cauca
+82,Arabica,Honduras,1600.0,Washed / Wet,7.5,7.5,7.17,7.5,7.5,7.42,el paraíso
+82,Arabica,Honduras,1600.0,Natural / Dry,7.5,7.5,7.25,7.33,7.42,7.5,guinope el paraíso
+82,Arabica,Brazil,944.0,Natural / Dry,7.5,7.33,7.42,7.5,7.33,7.42,south of minas
+82,Arabica,"Tanzania, United Republic Of",1650.0,Washed / Wet,7.67,7.33,7.33,7.42,7.42,7.42,kilimanjaro
+82,Arabica,Laos,1250.0,Washed / Wet,7.42,7.5,7.25,7.33,7.5,7.5,lao p.d.r.
+82,Arabica,"Tanzania, United Republic Of",1350.0,Washed / Wet,7.42,7.42,7.33,7.58,7.33,7.42,meru
+82,Arabica,Malawi,2500.0,Washed / Wet,7.5,7.42,7.33,7.58,7.33,7.5,mzuzu
+82,Arabica,Taiwan,600.0,Washed / Wet,7.33,7.5,7.17,7.42,7.5,7.33,"dongshan dist., tainan city 臺南市東山區"
+82,Arabica,Thailand,800.0,Washed / Wet,7.58,7.5,7.42,7.42,7.33,7.42,thailand
+82,Arabica,Costa Rica,1300.0,Washed / Wet,7.5,7.25,7.33,7.33,7.75,7.5,central valley
+82,Arabica,Honduras,1400.0,Washed / Wet,7.33,7.33,7.33,7.5,7.5,7.83,occidental
+82,Arabica,Colombia,1900.0,Washed / Wet,7.33,7.33,7.58,7.5,7.5,7.58,huila
+82,Arabica,Taiwan,650.0,Washed / Wet,7.42,7.58,7.33,7.42,8.0,7.5,"dongshan dist., tainan city 臺南市東山區"
+82,Arabica,Brazil,1038.5,Natural / Dry,7.33,7.67,7.42,7.17,7.33,7.42,"minas gerais, br"
+82,Arabica,Mexico,940.0,Washed / Wet,7.67,7.33,7.25,7.5,7.42,7.42,coscomatepec
+82,Arabica,Brazil,1000.0,Natural / Dry,7.42,7.5,7.33,7.5,7.33,7.5,south of minas
+82,Arabica,Brazil,1050.0,Semi-washed / Semi-pulped,7.42,7.5,7.25,7.5,7.5,7.42,cerrado
+82,Arabica,Guatemala,1310.64,Natural / Dry,7.33,7.33,7.33,7.5,7.67,7.67,san marcos
+82,Arabica,Brazil,950.0,Semi-washed / Semi-pulped,7.58,7.5,7.17,7.5,7.5,7.42,south of minas
+82,Arabica,Guatemala,1402.08,Washed / Wet,7.75,7.33,7.33,7.42,7.75,7.67,oriente
+82,Arabica,Colombia,1775.0,Washed / Wet,7.33,7.0,7.08,7.42,7.5,7.67,huila
+81,Arabica,Guatemala,1901.0,Washed / Wet,7.58,7.5,7.25,7.58,7.58,7.5,oriente
+81,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.5,7.25,7.42,7.42,7.42,santa rosa
+81,Arabica,Honduras,1400.0,Washed / Wet,7.58,7.5,7.25,7.33,7.42,7.5,comayagua
+81,Arabica,Brazil,1020.0,Natural / Dry,7.42,7.33,7.33,7.5,7.5,7.33,monte carmelo
+81,Arabica,El Salvador,1250.0,Washed / Wet,7.67,7.58,7.33,7.5,7.5,7.67,"el balsamo, quezaltepec"
+81,Arabica,Guatemala,1550.0,Washed / Wet,7.58,7.58,7.17,7.83,7.17,7.33,nuevo oriente
+81,Arabica,"Tanzania, United Republic Of",1877.0,Washed / Wet,7.33,7.33,7.33,7.42,7.5,7.58,mbeya
+81,Arabica,Zambia,1250.0,Washed / Wet,7.67,7.08,7.42,7.33,7.75,7.42,mubuyu estate
+81,Arabica,Taiwan,1000.0,Other,7.5,7.5,7.42,7.25,7.5,7.5,taichung xinshe 台中市新社區
+81,Arabica,Mexico,1300.0,Washed / Wet,7.58,7.5,7.25,7.58,7.5,7.25,chiapas
+81,Arabica,Mexico,981.0,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.5,7.5,"chapulhuacan, hidalgo"
+81,Arabica,Mexico,690.0,Washed / Wet,7.5,7.42,7.25,7.5,7.33,7.33,"huazalingo, hidalgo"
+81,Arabica,Mexico,1650.0,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.33,veracruz
+81,Arabica,Mexico,1000.0,Washed / Wet,7.67,7.42,7.33,7.83,7.5,7.5,fortín de las flores
+81,Arabica,Brazil,1100.0,Natural / Dry,7.42,7.58,7.25,7.5,7.33,7.5,grama valley
+81,Arabica,Colombia,1600.0,Washed / Wet,7.67,7.33,7.33,7.58,7.33,7.33,cundinamarca
+81,Arabica,Guatemala,157.8864,Washed / Wet,7.42,7.5,7.25,7.5,7.33,7.42,oriente
+81,Arabica,Costa Rica,1900.0,Pulped natural / honey,7.25,7.33,7.5,7.33,7.67,7.42,tarrazu
+81,Arabica,Brazil,973.0,Natural / Dry,7.42,7.5,7.42,7.5,7.42,7.25,monte carmelo
+81,Arabica,Indonesia,1250.0,Other,7.75,7.83,7.58,7.75,7.92,7.83,bali
+81,Arabica,Guatemala,3280.0,Washed / Wet,7.58,7.5,7.33,7.42,7.58,7.25,norte
+81,Arabica,Brazil,1.0,Natural / Dry,7.17,7.58,6.83,7.5,7.75,7.25,south of minas
+81,Arabica,Brazil,1.0,Natural / Dry,7.58,7.0,6.92,6.92,7.67,7.5,south of minas
+81,Arabica,Myanmar,4001.0,Washed / Wet,7.33,7.58,7.5,7.42,7.33,7.33,ywar ngan
+81,Arabica,Mexico,1425.0,Washed / Wet,7.58,7.5,7.33,7.5,7.17,7.33,chiapas
+81,Arabica,Honduras,1400.0,Washed / Wet,7.5,7.5,7.33,7.5,7.42,7.25,marcala
+81,Arabica,Costa Rica,1300.0,Washed / Wet,7.67,7.5,7.5,7.25,7.08,7.42,tres rios
+81,Arabica,Taiwan,700.0,Washed / Wet,7.67,7.33,7.17,7.25,7.75,7.33,"dongshan dist., tainan city 臺南市東山區"
+81,Arabica,Indonesia,1300.0,Other,7.42,7.42,7.42,7.33,7.42,7.42,lington nihuta
+81,Arabica,Malawi,1556.0,Washed / Wet,7.58,7.42,7.33,7.33,7.33,7.42,kakoma
+81,Arabica,Brazil,1100.0,Natural / Dry,7.33,7.58,7.25,7.17,7.83,7.33,south of minas
+81,Arabica,Honduras,1350.0,Natural / Dry,7.5,7.5,7.33,7.33,7.33,7.33,comayagua
+81,Arabica,Mexico,1550.0,Washed / Wet,7.42,7.42,7.25,7.5,7.33,7.42,"siltepec el triunfo, chiapas, mexico"
+81,Arabica,Colombia,1775.0,Washed / Wet,7.5,7.5,7.0,7.42,7.5,7.58,huila
+81,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.83,7.83,7.83,8.0,7.83,7.83,kona
+81,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,7.75,7.75,7.5,7.42,7.83,7.75,sul de minas
+81,Arabica,Guatemala,1310.64,Washed / Wet,7.83,7.67,7.33,7.33,7.67,7.83,oriente
+81,Arabica,Mexico,1500.0,Washed / Wet,7.83,7.33,7.25,7.58,7.25,7.33,veracruz
+81,Arabica,Mexico,1250.0,Semi-washed / Semi-pulped,7.33,7.33,7.25,7.5,7.5,7.5,coatepec
+81,Arabica,Brazil,925.0,Washed / Wet,7.33,7.67,7.25,7.5,7.5,7.25,cerrado
+81,Arabica,Colombia,1700.0,Washed / Wet,7.58,7.5,7.17,7.58,7.33,7.33,huila
+81,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.25,7.58,7.83,7.67,7.75,7.75,kona
+81,Arabica,Guatemala,1700.0,Washed / Wet,7.5,7.5,7.25,7.42,7.42,7.33,san marcos
+81,Arabica,Vietnam,1040.0,Washed / Wet,7.0,7.08,7.33,7.5,7.5,7.33,vietnam
+81,Arabica,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.42,7.42,7.42,7.42,7.33,7.33,ngorogoro
+81,Arabica,Mexico,774.0,Washed / Wet,7.5,7.5,7.33,7.42,7.25,7.25,"tenango de doria, hidalgo"
+81,Arabica,Mexico,1250.0,Washed / Wet,7.42,7.5,7.17,7.67,7.33,7.42,tepictla
+81,Arabica,Mexico,1100.0,Washed / Wet,7.42,7.5,7.33,7.58,7.33,7.33,oaxaca
+81,Arabica,Mexico,1550.0,Washed / Wet,7.33,7.42,7.33,7.67,7.42,7.25,la concordia
+81,Arabica,Mexico,1650.0,Washed / Wet,7.5,7.42,7.25,7.33,7.67,7.25,la concordia
+81,Arabica,Colombia,1750.0,Washed / Wet,7.33,7.42,7.33,7.33,7.5,7.67,huila
+81,Arabica,Colombia,1775.0,Washed / Wet,7.42,7.58,6.92,7.08,7.25,8.0,huila
+81,Arabica,Brazil,890.0,Natural / Dry,7.42,7.5,7.25,7.5,7.5,7.25,south of minas
+81,Arabica,Guatemala,1700.0,Washed / Wet,7.42,7.42,7.08,7.42,7.33,7.42,san marcos
+81,Arabica,Guatemala,1219.2,Washed / Wet,7.42,7.33,7.17,7.67,7.33,7.42,santa rosa
+81,Arabica,Honduras,1450.0,Washed / Wet,7.58,7.5,7.33,7.33,7.42,7.25,marcala
+81,Arabica,"Tanzania, United Republic Of",1800.0,Washed / Wet,7.17,7.33,7.33,7.42,7.5,7.33,mbinga
+81,Arabica,Nicaragua,1310.64,Washed / Wet,7.58,7.5,7.25,7.25,7.5,7.25,jinotega
+81,Arabica,Colombia,1310.64,Washed / Wet,7.75,7.75,7.75,7.67,5.25,7.83,la plata
+81,Arabica,Brazil,1.0,Natural / Dry,7.25,7.75,6.92,7.42,7.5,7.58,south of minas
+81,Arabica,"Tanzania, United Republic Of",1500.0,Washed / Wet,7.42,7.33,7.25,7.42,7.5,7.42,mbinga
+81,Arabica,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.33,7.33,7.5,7.25,7.42,7.33,"ilomba vilage, mbozi"
+81,Arabica,Brazil,1260.0,Washed / Wet,7.25,7.42,7.25,7.5,7.5,7.42,south of minas
+81,Arabica,Indonesia,1310.64,Semi-washed / Semi-pulped,7.17,7.42,7.33,7.42,7.33,7.42,bener meriah
+81,Arabica,Honduras,1400.0,Natural / Dry,7.5,7.33,7.5,7.5,7.17,7.17,comayagua
+81,Arabica,Costa Rica,1850.0,Washed / Wet,7.5,7.17,7.17,7.17,7.5,7.08,tarrazu
+81,Arabica,Mexico,1310.64,Washed / Wet,7.42,7.42,7.67,8.0,7.58,7.5,veracruz
+81,Arabica,Taiwan,150.0,Semi-washed / Semi-pulped,7.5,7.5,7.5,7.25,7.42,7.25,changhua baguashan 彰化市八卦山
+81,Arabica,Taiwan,750.0,Washed / Wet,7.58,7.42,7.33,7.42,7.33,7.33,nantou
+81,Arabica,Mexico,1400.0,Washed / Wet,7.5,7.42,7.08,7.58,7.33,7.33,"la concordia, chiapas"
+81,Arabica,Guatemala,1752.6,Washed / Wet,7.5,7.67,7.33,7.33,7.33,7.33,jalapa
+81,Arabica,Mexico,1650.0,Washed / Wet,7.25,7.67,7.58,7.67,7.67,7.58,tuxtla gutierrez
+81,Arabica,Mexico,1400.0,Washed / Wet,7.67,7.25,7.17,7.75,7.5,7.25,yajalon
+81,Arabica,Mexico,1200.0,Washed / Wet,7.5,7.42,7.33,7.42,7.42,7.42,veracruz
+81,Arabica,Mexico,1400.0,Washed / Wet,7.58,7.42,7.25,7.58,7.25,7.17,"la concordia, chiapas"
+81,Arabica,Mexico,940.0,Semi-washed / Semi-pulped,7.75,7.58,7.25,7.17,7.58,7.33,"sacún palma, municipio de chilón, chiapas"
+81,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.42,7.33,7.33,7.33,7.17,7.83,kona
+81,Arabica,Honduras,1200.0,Washed / Wet,7.5,7.42,7.08,7.42,7.5,7.33,western region
+81,Arabica,Guatemala,190164.0,Washed / Wet,7.42,7.42,7.08,7.5,7.42,7.33,huehuetenango
+81,Arabica,Taiwan,800.0,Washed / Wet,7.42,7.42,7.25,7.67,7.33,7.25,natou county
+81,Arabica,Costa Rica,13.0,Washed / Wet,7.58,7.42,7.5,7.17,7.08,7.58,turrialba
+81,Arabica,"Tanzania, United Republic Of",1800.0,Washed / Wet,7.42,7.42,7.33,7.42,7.42,7.33,"oldeani , mongola"
+81,Arabica,Malawi,1100.0,Washed / Wet,7.42,7.42,7.17,7.58,7.33,7.33,mzuzu
+81,Arabica,Taiwan,850.0,Semi-washed / Semi-pulped,7.33,7.17,7.08,7.08,8.33,8.25,natou county
+81,Arabica,Brazil,1260.0,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.25,south of minas
+81,Arabica,Guatemala,1310.64,Washed / Wet,7.42,7.33,7.17,7.58,7.42,7.5,oriente
+81,Arabica,Mexico,1400.0,Washed / Wet,7.67,7.5,7.42,7.5,6.75,7.42,"la concordia, chiapas"
+81,Arabica,Mexico,1600.0,Natural / Dry,7.33,7.5,7.25,7.5,7.5,7.17,la concordia
+81,Arabica,Mexico,1650.0,Natural / Dry,7.67,7.58,7.42,7.58,7.58,7.42,la concordia
+81,Arabica,Thailand,1499.9208,Washed / Wet,7.08,7.33,7.58,7.58,7.17,7.5,"doi chaang village, chiang rai, thialand"
+81,Arabica,Costa Rica,1600.2,Washed / Wet,7.25,7.17,7.33,7.33,7.5,7.75,tarrazu
+81,Arabica,Guatemala,1219.2,Washed / Wet,7.67,7.58,7.17,7.42,7.33,7.42,santa rosa
+81,Arabica,Nicaragua,1100.0,Other,7.5,7.42,7.33,7.33,7.25,7.33,jalapa
+81,Arabica,Honduras,1400.0,Washed / Wet,7.5,7.5,7.33,7.42,7.17,7.25,comayagua
+81,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.42,7.25,7.25,7.5,7.25,santa rosa
+81,Arabica,Taiwan,180.0,Natural / Dry,7.5,7.42,7.33,7.08,7.58,7.25,古坑鄉荷包村尖山坑60號
+81,Arabica,Myanmar,1219.2,Washed / Wet,7.25,7.42,7.25,7.5,7.33,7.33,ywar ngan township
+81,Arabica,Costa Rica,1200.0,Washed / Wet,7.83,7.33,7.08,7.08,7.33,7.5,occidental
+81,Arabica,Malawi,1599.0,Washed / Wet,7.67,7.42,6.92,7.5,7.5,7.17,mzuzu
+81,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.42,7.17,7.58,7.25,7.42,oriente
+81,Arabica,Taiwan,900.0,Washed / Wet,7.42,7.33,7.67,7.33,7.42,7.5,natou county
+81,Arabica,Brazil,1200.0,Semi-washed / Semi-pulped,7.58,7.5,7.5,7.67,7.67,7.83,sul de minas
+81,Arabica,Haiti,825.0,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.33,"dondon, haiti"
+81,Arabica,Taiwan,600.0,Other,7.5,7.42,7.25,7.25,7.33,7.33,taichung xinshe 台中市新社區
+81,Arabica,Mexico,1150.0,Washed / Wet,7.33,7.33,7.17,7.42,7.5,7.5,"la concordia, chiapas"
+81,Arabica,Mexico,1600.0,Washed / Wet,7.58,7.42,7.25,7.42,7.33,7.33,amatenango de la frontera
+81,Arabica,Mexico,1100.0,Washed / Wet,7.42,7.25,7.17,7.42,7.17,8.0,temaxcalapa
+81,Arabica,Mexico,1000.0,Semi-washed / Semi-pulped,7.33,7.5,7.33,7.33,7.33,7.42,manzanillo
+81,Arabica,Mexico,1250.0,Washed / Wet,7.42,7.42,7.33,7.17,7.25,7.42,tapachula
+81,Arabica,Mexico,1100.0,Natural / Dry,7.5,7.5,7.25,7.5,7.42,7.58,atoyac de alvarez
+81,Arabica,Indonesia,1400.0,Washed / Wet,7.75,7.17,7.17,7.33,7.58,7.33,ijen
+81,Arabica,Brazil,125.0,Semi-washed / Semi-pulped,7.5,7.42,7.17,7.42,7.5,7.33,sul de minas
+81,Arabica,Guatemala,1310.64,Washed / Wet,7.33,7.5,7.33,7.42,7.17,7.33,oriente
+81,Arabica,Colombia,1450.0,Washed / Wet,7.42,7.42,7.17,7.42,7.42,7.33,cauca
+81,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.33,7.33,7.33,7.5,7.5,7.83,kona
+81,Arabica,Mexico,1100.0,Washed / Wet,7.58,7.33,7.08,7.33,7.5,7.33,veracruz
+81,Arabica,Guatemala,1371.6,Washed / Wet,7.42,7.33,7.08,7.58,7.33,7.25,san marcos
+81,Arabica,Brazil,1100.0,Natural / Dry,7.33,7.5,7.5,7.33,6.83,7.42,cerrado
+81,Arabica,Honduras,1400.0,Washed / Wet,7.5,7.33,7.17,7.25,7.5,7.42,marcala
+81,Arabica,Taiwan,110.0,Washed / Wet,7.83,7.75,7.42,7.17,7.08,7.08,苗栗三灣
+81,Arabica,Malawi,1422.0,Washed / Wet,7.58,7.17,7.33,7.42,7.08,7.42,mzuzu
+81,Arabica,Brazil,1100.0,Natural / Dry,7.25,7.5,7.42,7.17,7.33,7.33,south of minas
+81,Arabica,Guatemala,1550.0,Washed / Wet,7.42,7.5,7.17,7.42,7.42,7.42,"san lucas toliman, solola"
+81,Arabica,Mexico,1550.0,Washed / Wet,7.67,7.33,7.25,7.17,7.25,7.42,siltepec el triunfo
+81,Arabica,Peru,1310.64,Washed / Wet,7.42,7.42,7.17,7.33,7.42,7.42,puno
+81,Arabica,Guatemala,1310.64,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.5,oriente
+81,Arabica,Mexico,763.0,Washed / Wet,7.42,7.33,7.25,7.17,7.25,7.42,"huazalingo, hidalgo"
+81,Arabica,Mexico,1100.0,Washed / Wet,7.42,7.42,7.25,7.25,7.5,7.33,"coatepec, coatepec"
+81,Arabica,Colombia,1750.0,Natural / Dry,7.5,7.42,7.25,7.17,7.17,7.75,huila
+81,Arabica,Colombia,1880.0,Washed / Wet,7.75,7.33,7.42,7.0,7.33,7.25,cauca
+81,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.83,7.0,7.0,7.58,7.58,7.5,kona
+81,Arabica,Colombia,1310.64,Washed / Wet,7.5,7.33,7.33,7.17,7.33,7.42,huila
+81,Arabica,Honduras,1500.0,Washed / Wet,7.5,7.5,7.0,7.17,7.5,7.33,comayagua
+81,Arabica,Mexico,1130.0,Washed / Wet,7.67,7.42,7.0,7.42,7.58,7.08,veracruz
+81,Arabica,Brazil,1100.0,Natural / Dry,7.25,7.33,7.33,7.33,7.33,7.42,cerrado
+81,Arabica,Honduras,1350.0,Washed / Wet,7.58,7.42,7.17,7.42,7.17,7.17,marcala
+81,Arabica,Brazil,1200.0,Other,7.17,7.33,7.42,7.25,7.42,7.33,mantiqueira de minas
+81,Arabica,Philippines,1400.0,Washed / Wet,7.08,7.33,7.42,7.33,7.33,7.5,"davao city, region 11"
+81,Arabica,Malawi,1200.0,Washed / Wet,7.75,7.33,7.08,7.33,7.33,7.25,mzuzu
+81,Arabica,Honduras,1450.0,Washed / Wet,7.33,7.33,7.17,7.33,7.5,7.33,san marcos
+81,Arabica,Mexico,1800.0,Washed / Wet,7.58,7.42,7.25,7.33,7.25,7.25,tapachula
+81,Arabica,Mexico,1000.0,Washed / Wet,7.33,7.25,7.17,7.42,7.58,7.33,veracruz
+81,Arabica,Brazil,1100.0,Natural / Dry,7.5,7.58,7.5,7.5,7.75,7.83,matas de minas
+81,Arabica,Taiwan,680.0,Natural / Dry,7.83,7.75,7.67,7.83,7.83,7.75,"dongshan dist., tainan city 台南市東山區"
+81,Arabica,Brazil,1.0,Natural / Dry,7.17,7.42,7.17,7.08,6.92,8.17,south of minas
+81,Arabica,Nicaragua,1100.0,Washed / Wet,7.08,7.5,7.33,7.17,7.42,7.25,jinotega
+81,Arabica,Honduras,1400.0,Washed / Wet,7.42,7.17,7.17,7.5,7.33,7.25,marcala
+81,Arabica,Guatemala,1700.0,Washed / Wet,7.33,7.42,7.17,7.25,7.42,7.33,huehuetenango
+81,Arabica,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.33,7.17,7.17,7.5,7.25,7.42,karatu ngorogoro
+81,Arabica,Taiwan,650.0,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.25,7.25,nantou
+81,Arabica,Guatemala,1524.0,Washed / Wet,7.5,7.33,7.5,7.58,7.0,7.25,"sacatepequez, guatemala"
+81,Arabica,Mexico,1500.0,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.42,motozintla
+81,Arabica,Nicaragua,1200.0,Washed / Wet,7.33,7.5,7.17,7.17,7.58,7.17,"dipilto, nueva segovia"
+81,Arabica,"Tanzania, United Republic Of",1050.0,Washed / Wet,7.67,7.17,7.17,7.33,7.5,7.17,"ruvuma, mbinga"
+81,Arabica,Mexico,1200.0,Washed / Wet,7.75,7.58,7.08,7.25,7.08,7.25,"chiapas, jaltenango"
+81,Arabica,Costa Rica,1300.0,Washed / Wet,7.5,7.5,7.33,7.17,7.08,7.17,tres rios
+81,Arabica,Honduras,1450.0,Natural / Dry,7.42,7.33,7.0,7.42,7.33,7.33,central region
+81,Arabica,Thailand,1450.0,Washed / Wet,6.83,7.42,7.42,7.17,7.5,7.42,chiangrai
+81,Arabica,Philippines,1200.0,Natural / Dry,7.25,7.25,7.25,7.08,7.58,7.5,corillera administrative
+81,Arabica,"Tanzania, United Republic Of",1550.0,Washed / Wet,7.58,7.17,7.17,7.33,7.33,7.25,mbinga
+81,Arabica,Malawi,995.0,Washed / Wet,7.58,7.25,7.33,7.08,7.33,7.33,southern- zomba
+81,Arabica,Costa Rica,1300.0,Washed / Wet,7.33,7.08,7.33,7.25,7.33,7.58,central valley
+81,Arabica,Brazil,1310.64,Natural / Dry,7.42,7.42,7.17,7.42,7.33,7.25,monte carmelo
+81,Arabica,Mexico,1800.0,Natural / Dry,7.42,7.25,7.08,7.75,7.42,7.17,tapachula
+81,Arabica,Guatemala,1450.0,Washed / Wet,7.42,7.25,7.33,7.25,7.25,7.42,oriente
+81,Arabica,Brazil,1000.0,Natural / Dry,7.42,7.33,7.25,7.42,7.5,7.17,south of minas
+81,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.25,7.75,7.67,7.67,7.42,7.67,kona
+81,Arabica,Ethiopia,1310.64,Natural / Dry,7.42,7.33,7.17,7.33,7.42,7.17,sidamo
+81,Arabica,Brazil,695.0,Natural / Dry,7.58,7.42,7.5,7.25,7.75,7.58,alta paulista (sao paulo)
+81,Arabica,Nicaragua,1100.0,Washed / Wet,7.33,7.33,7.33,7.42,7.33,7.33,jinotega
+81,Arabica,United States,1706.88,Natural / Dry,7.42,7.17,7.33,7.42,7.25,7.33,central america
+81,Arabica,"Tanzania, United Republic Of",1456.0,Washed / Wet,7.42,7.33,7.33,7.25,7.25,7.33,"iwala village, mbeya rural"
+81,Arabica,Costa Rica,1500.0,Washed / Wet,7.42,7.25,7.17,7.25,7.25,7.58,naranjo
+81,Arabica,United States (Puerto Rico),853.44,Washed / Wet,7.67,7.75,7.67,7.58,7.58,7.67,yauco region
+81,Arabica,Mexico,1650.0,Washed / Wet,7.25,7.42,7.33,7.33,7.17,7.33,san fernando
+81,Arabica,Mexico,1300.0,Washed / Wet,7.33,7.25,7.33,7.42,7.25,7.42,santo reyes nopala
+81,Arabica,Mexico,1642.0,Washed / Wet,7.33,7.33,7.25,7.42,7.25,7.25,santa maria sitepec
+81,Arabica,Mexico,1200.0,Washed / Wet,7.42,7.33,7.25,7.42,7.17,7.25,talpa de allende
+81,Arabica,Brazil,1310.64,Pulped natural / honey,7.25,7.25,7.17,7.5,7.33,7.17,grama valley
+81,Arabica,El Salvador,1450.0,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.58,apaneca
+81,Arabica,Brazil,1310.64,Pulped natural / honey,7.33,7.17,7.17,7.67,7.33,7.17,grama valley
+81,Arabica,Guatemala,3280.0,Washed / Wet,7.42,7.25,7.17,7.5,7.25,7.17,norte
+81,Arabica,Colombia,1600.0,Washed / Wet,7.67,7.5,7.42,5.25,7.67,7.75,guayata
+81,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.25,7.0,7.25,7.5,7.25,oriente
+81,Arabica,Taiwan,758.0,Washed / Wet,7.25,7.17,7.17,7.25,7.5,7.33,"dongshan dist., tainan city 臺南市東山區"
+81,Arabica,Honduras,1350.0,Natural / Dry,7.42,7.25,7.25,7.33,7.25,7.17,san marcos
+81,Arabica,Brazil,1310.64,Natural / Dry,7.67,7.75,7.83,7.75,7.83,7.75,cerrado
+81,Arabica,"Tanzania, United Republic Of",1525.0,Washed / Wet,7.33,7.33,7.08,7.42,7.17,7.33,arusha
+81,Arabica,Uganda,1700.0,Natural / Dry,7.33,6.92,7.17,7.33,7.42,7.42,eastern
+81,Arabica,Taiwan,1100.0,Semi-washed / Semi-pulped,7.5,6.92,7.33,7.33,7.33,7.33,nantou
+81,Arabica,Thailand,800.0,Washed / Wet,7.33,7.42,7.25,7.42,7.25,7.17,thailand
+81,Arabica,Mexico,950.0,Washed / Wet,7.08,7.33,7.33,7.33,7.42,7.25,"motozintla, chiapas"
+81,Arabica,Mexico,1100.0,Washed / Wet,7.58,7.67,7.5,7.67,7.58,7.5,adolfo lopez mateos
+80,Arabica,Taiwan,200.0,Washed / Wet,7.33,7.17,7.25,7.33,7.33,7.25,taiwan
+80,Arabica,Guatemala,1901.0,Washed / Wet,7.67,7.67,7.33,7.58,7.67,7.5,oriente
+80,Arabica,Kenya,1600.0,Washed / Wet,7.17,7.58,7.5,7.5,8.0,7.75,kiambu
+80,Arabica,Mexico,1100.0,Washed / Wet,7.5,7.33,7.17,7.42,7.5,7.33,veracruz
+80,Arabica,Myanmar,1066.8,Other,7.17,7.42,7.0,7.58,7.33,7.0,pyinoolwin
+80,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.42,7.08,7.17,7.17,7.58,7.25,kona
+80,Arabica,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.33,7.17,7.17,7.25,7.42,7.33,"manyara, karatu"
+80,Arabica,Brazil,1200.0,Natural / Dry,7.25,7.33,7.25,7.25,7.25,7.33,mantiqueira de minas
+80,Arabica,Taiwan,550.0,Washed / Wet,7.92,7.67,7.33,7.08,7.08,7.08,台中新社
+80,Arabica,Brazil,1100.0,Natural / Dry,7.17,7.42,7.17,7.25,7.25,7.33,south of minas
+80,Arabica,Nicaragua,1050.0,Washed / Wet,7.33,7.08,7.25,7.0,7.5,7.42,matagalpa
+80,Arabica,Guatemala,1524.0,Washed / Wet,7.58,7.42,6.92,7.5,7.25,7.17,jalapa
+80,Arabica,Taiwan,900.0,Washed / Wet,7.42,7.25,7.25,7.25,7.25,7.25,taichung taiping 台中市太平區
+80,Arabica,Taiwan,688.0,Other,7.25,7.17,7.08,7.08,7.08,8.08,nantou
+80,Arabica,Taiwan,300.0,Washed / Wet,7.42,7.25,7.25,7.25,7.25,7.25,new taipei zhonghe 新北市中和區
+80,Arabica,Mexico,1186.0,Washed / Wet,7.58,7.33,7.08,7.5,7.17,7.25,ixhuatlan del cafe
+80,Arabica,Laos,1300.0,Washed / Wet,7.42,7.33,7.17,7.17,7.17,7.25,"paksong,laos"
+80,Arabica,Guatemala,1200.0,Washed / Wet,7.67,7.25,7.08,7.33,7.17,7.25,orient
+80,Arabica,Mexico,1210.0,Semi-washed / Semi-pulped,7.17,7.08,7.25,7.42,7.25,7.33,motozintla
+80,Arabica,Mexico,1100.0,Washed / Wet,7.33,7.25,7.33,7.33,7.25,7.17,oaxaca
+80,Arabica,Mexico,100.0,Washed / Wet,7.5,7.17,7.33,7.25,7.17,7.17,veracruz
+80,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.42,7.33,7.0,7.25,7.33,7.5,kona
+80,Arabica,Colombia,1800.0,Washed / Wet,7.33,7.33,7.0,6.83,7.33,7.67,huila
+80,Arabica,Brazil,1310.64,Natural / Dry,7.17,7.25,7.08,7.17,7.25,7.58,monte carmelo
+80,Arabica,Myanmar,3825.0,Washed / Wet,6.92,7.5,7.0,7.58,7.5,7.08,ywar ngan
+80,Arabica,Guatemala,1706.88,Washed / Wet,7.5,7.33,7.0,7.42,7.17,7.17,huehuetenango
+80,Arabica,Nicaragua,110000.0,Washed / Wet,7.25,7.25,7.17,7.25,7.33,7.25,jinotega
+80,Arabica,Honduras,1450.0,Natural / Dry,7.5,7.33,7.0,7.42,7.25,7.17,"siguatepeque, comayagua"
+80,Arabica,Panama,1680.0,Other,7.25,7.33,7.17,7.33,7.33,7.17,boquete
+80,Arabica,Honduras,1350.0,Washed / Wet,7.42,7.17,7.08,7.42,7.25,7.25,marcala
+80,Arabica,Honduras,1450.0,Natural / Dry,7.25,7.33,7.08,7.5,7.25,7.33,central region
+80,Arabica,Costa Rica,1300.0,Washed / Wet,7.33,7.33,7.25,7.25,7.17,7.17,san ramon
+80,Arabica,Mexico,1200.0,Washed / Wet,7.58,7.33,7.42,7.25,7.5,7.5,oaxaca
+80,Arabica,Haiti,1000.0,Washed / Wet,7.42,7.0,7.42,7.25,7.08,7.33,haiti
+80,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.08,7.33,7.17,7.25,7.33,7.67,kona
+80,Arabica,Taiwan,1310.64,Other,7.33,7.08,7.08,7.08,7.42,7.33,taiwan
+80,Arabica,Indonesia,1350.0,Semi-washed / Semi-pulped,7.58,7.42,7.0,7.67,7.5,7.5,sumatra brastagi
+80,Arabica,Guatemala,1500.0,Washed / Wet,7.67,7.42,6.83,7.17,7.42,7.17,antigua
+80,Arabica,Costa Rica,185.0,Washed / Wet,7.83,7.5,7.67,7.67,7.83,7.5,tarrazu
+80,Arabica,Malawi,995.0,Washed / Wet,7.5,7.25,7.17,7.17,7.25,7.17,southern- zomba
+80,Arabica,Mexico,1200.0,Washed / Wet,7.25,7.17,7.17,7.25,7.17,7.42,"el desmoronado, talpan de allende jalisco"
+80,Arabica,Colombia,1550.0,Natural / Dry,7.67,7.5,7.42,7.67,7.5,7.75,santander
+80,Arabica,Guatemala,1550.0,Washed / Wet,7.67,7.17,7.0,7.5,7.0,7.0,"san lucas toliman, solola"
+80,Arabica,Guatemala,1310.64,Washed / Wet,7.0,7.33,7.5,7.33,7.0,7.33,oriente
+80,Arabica,Guatemala,1310.64,Washed / Wet,7.0,7.5,7.33,7.17,7.17,7.17,oriente
+80,Arabica,Brazil,1310.64,Washed / Wet,7.33,7.25,7.33,7.08,7.58,7.25,monte carmelo
+80,Arabica,Nicaragua,1310.64,Washed / Wet,7.08,7.5,7.0,7.25,7.42,7.0,nueva segovia
+80,Arabica,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.25,7.08,7.08,7.33,7.33,7.25,arusha
+80,Arabica,Brazil,1200.0,Semi-washed / Semi-pulped,7.42,7.25,7.33,7.0,7.08,7.25,south of minas
+80,Arabica,Honduras,1400.0,Washed / Wet,7.5,7.17,7.0,7.42,7.33,7.0,occidental
+80,Arabica,Guatemala,1383.792,Natural / Dry,7.17,7.42,6.83,7.5,7.17,7.25,huehuetenango
+80,Arabica,Taiwan,50.0,Natural / Dry,7.17,7.17,7.17,7.42,7.17,7.25,taiwan
+80,Arabica,Guatemala,1500.0,Washed / Wet,7.33,7.25,7.08,7.17,7.25,7.17,santa rosa
+80,Arabica,Honduras,1650.0,Washed / Wet,7.58,7.33,7.0,7.17,7.33,7.08,ocotepeque
+80,Arabica,Mauritius,280.0,Washed / Wet,7.25,7.25,7.17,7.17,7.25,7.17,chamarel (south west)
+80,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.5,7.33,7.25,vale da grama
+80,Arabica,Myanmar,3800.0,Washed / Wet,7.17,7.33,7.17,7.42,7.25,7.08,pyin oo lwin
+80,Arabica,Guatemala,1219.2,Washed / Wet,7.5,7.17,6.83,7.5,7.17,7.17,oriente
+80,Arabica,Brazil,1250.0,Semi-washed / Semi-pulped,7.42,7.42,7.08,7.33,7.67,7.5,mantiqueira de minas
+80,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.42,7.33,7.33,7.58,7.58,7.42,kona
+80,Arabica,Guatemala,1859.28,Washed / Wet,7.5,7.5,7.0,7.67,7.17,7.0,huehuetenango
+80,Arabica,Mexico,1450.0,Washed / Wet,7.25,7.25,7.08,7.33,7.25,7.17,zaragoza itundujia
+80,Arabica,Honduras,1450.0,Washed / Wet,7.25,7.42,7.0,7.42,7.33,7.0,marcala
+80,Arabica,Taiwan,600.0,Washed / Wet,7.58,7.17,7.17,7.17,7.17,7.17,南投國姓
+80,Arabica,El Salvador,1450.0,Washed / Wet,7.33,7.17,7.08,7.08,7.33,7.17,"department of ahuachapan, municipality of apanecallamatepec mountain"
+80,Arabica,China,1700.0,Washed / Wet,7.25,7.08,7.25,7.17,7.33,7.17,yunnan
+80,Arabica,Taiwan,600.0,Washed / Wet,7.25,7.25,7.17,7.25,7.25,7.25,nantou
+80,Arabica,Mexico,1050.0,Washed / Wet,6.92,7.17,7.08,7.5,7.33,7.17,pochutla
+80,Arabica,Mexico,1550.0,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.17,la concordia
+80,Arabica,Burundi,1700.0,Washed / Wet,7.08,7.25,7.17,7.33,7.08,7.08,mumirwa
+80,Arabica,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.25,7.17,7.0,7.25,7.42,7.08,mkuu rombo
+80,Arabica,"Tanzania, United Republic Of",1310.64,Washed / Wet,7.25,7.17,7.25,7.25,7.25,7.08,arusha
+80,Arabica,Taiwan,600.0,Other,7.25,7.25,7.08,7.25,7.25,7.25,taichung xinshe 台中市新社區
+80,Arabica,Guatemala,1310.64,Washed / Wet,7.33,7.33,6.83,7.5,7.0,7.17,oriente
+80,Arabica,Mexico,940.0,Semi-washed / Semi-pulped,7.25,7.08,7.08,7.33,7.33,7.17,chilón
+80,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.17,7.5,6.92,7.33,7.67,7.33,kona
+80,Arabica,Ethiopia,1310.64,Washed / Wet,7.25,7.25,7.25,7.33,7.5,8.0,kelem welega
+80,Arabica,Brazil,995.0,Natural / Dry,7.17,7.33,7.42,7.08,7.0,7.0,cerrado - monte carmelo - minas gerais
+80,Arabica,Honduras,1400.0,Natural / Dry,7.25,7.25,7.0,7.0,7.42,7.0,comayagua
+80,Arabica,Mexico,1600.0,Washed / Wet,7.25,7.17,7.0,7.33,7.33,7.0,sierra madre occidental
+80,Arabica,Myanmar,914.4,Natural / Dry,8.0,7.08,7.0,7.33,7.08,6.92,"yauk sauk, shan state"
+80,Arabica,Myanmar,4287.0,Natural / Dry,7.42,7.0,7.08,7.0,7.17,7.33,ywar ngan
+80,Arabica,Nicaragua,900.0,Washed / Wet,7.08,6.92,7.0,7.25,7.5,7.25,matagalpa
+80,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.08,7.67,7.67,7.42,7.58,kona
+80,Arabica,Taiwan,700.0,Semi-washed / Semi-pulped,7.25,7.08,7.25,7.25,7.17,7.25,chiayi fanlu嘉義縣番路鄉
+80,Arabica,Guatemala,1400.0,Washed / Wet,7.0,7.17,7.33,7.33,7.0,7.17,oriente
+80,Arabica,Mexico,808.0,Washed / Wet,7.58,7.33,7.17,7.25,6.75,7.0,"calnali, hidalgo"
+80,Arabica,Vietnam,1550.0,Other,7.42,7.25,7.25,7.58,7.42,7.33,dala
+80,Arabica,Nicaragua,1187.5,Washed / Wet,7.17,7.08,7.08,7.33,7.25,7.08,jinotega
+80,Arabica,Honduras,1400.0,Washed / Wet,7.25,7.25,7.0,7.17,7.08,7.08,marcala
+80,Arabica,Guatemala,1310.64,Washed / Wet,7.33,7.33,7.0,7.17,7.17,7.17,oriente
+80,Arabica,Mexico,1250.0,Washed / Wet,7.33,7.08,6.92,7.42,7.25,7.08,coatepec
+80,Arabica,Mexico,1550.0,Washed / Wet,7.58,7.42,7.33,7.5,7.08,7.17,zaragoza itundujia
+80,Arabica,Mexico,1000.0,Washed / Wet,7.33,7.33,7.17,7.08,7.25,7.0,veracruz
+80,Arabica,Guatemala,1310.64,Washed / Wet,7.33,7.33,7.0,7.33,7.0,7.0,oriente
+80,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.58,7.5,7.33,7.33,7.67,7.33,kona
+80,Arabica,Brazil,1100.0,Pulped natural / honey,7.17,7.17,7.0,7.17,7.25,7.25,mantiqueira de minas
+80,Arabica,Taiwan,850.0,Washed / Wet,7.42,7.25,7.25,7.17,7.0,7.0,苗栗泰安
+80,Arabica,Taiwan,200.0,Other,7.25,7.25,7.25,7.25,7.08,7.0,yunlin gukeng he bao 雲林縣古坑鄉荷苞村
+80,Arabica,Taiwan,150.0,Washed / Wet,7.25,7.25,7.25,7.0,7.25,7.08,changhua baguashan 彰化市八卦山
+80,Arabica,Taiwan,250.0,Semi-washed / Semi-pulped,7.25,7.25,7.25,7.08,7.17,7.08,changhua baguashan 彰化市八卦山
+80,Arabica,Mexico,1300.0,Washed / Wet,7.33,7.17,7.25,7.08,7.08,7.08,zaragoza itundujia
+80,Arabica,Mexico,1300.0,Washed / Wet,7.25,7.08,7.0,7.17,7.33,7.17,escuitla
+80,Arabica,Nicaragua,1250.0,Washed / Wet,7.33,7.08,6.92,7.08,7.42,7.17,jinotega
+80,Arabica,Myanmar,3845.0,Washed / Wet,7.17,7.33,7.0,7.42,7.17,7.0,"doe kwin, pyin oo lwin"
+80,Arabica,Mexico,1400.0,Washed / Wet,7.58,7.75,7.42,7.5,7.5,7.5,"sierra fraylesca, chiapas"
+80,Arabica,Taiwan,250.0,Washed / Wet,7.25,7.25,7.25,7.0,7.25,7.0,changhua baguashan 彰化市八卦山
+80,Arabica,Thailand,800.0,Washed / Wet,7.33,6.67,7.08,7.42,7.42,7.08,thailand
+80,Arabica,Mexico,1250.0,Washed / Wet,7.25,7.25,7.08,7.17,7.33,7.33,coatepec
+80,Arabica,Mexico,1100.0,Washed / Wet,7.08,7.33,7.0,7.33,7.08,7.0,san miguel del puerto
+80,Arabica,Ethiopia,1310.64,Washed / Wet,7.42,7.42,7.5,7.92,7.75,7.58,limu
+79,Arabica,Colombia,1310.64,Washed / Wet,7.83,7.67,7.58,7.75,7.83,7.17,huila
+79,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.0,7.0,6.92,7.33,7.17,kona
+79,Arabica,Mexico,1300.0,Washed / Wet,7.33,7.08,7.08,7.33,7.42,7.17,chiapas
+79,Arabica,Mexico,1100.0,Washed / Wet,7.17,7.17,6.92,7.25,7.33,7.08,"motozintla, chiapas"
+79,Arabica,Mexico,1100.0,Washed / Wet,7.5,7.17,7.0,7.17,7.25,7.08,veracruz
+79,Arabica,Mexico,1100.0,Washed / Wet,7.17,7.08,7.08,7.08,7.5,7.33,jaltenango
+79,Arabica,Mexico,1250.0,Natural / Dry,7.33,7.25,7.0,7.42,7.17,7.17,coatepec
+79,Arabica,Mexico,1250.0,Washed / Wet,7.17,7.33,7.08,7.58,7.33,7.08,veracruz
+79,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.5,7.42,7.58,7.42,7.5,7.58,kona
+79,Arabica,Kenya,1500.0,Washed / Wet,7.0,7.08,7.0,7.17,7.25,7.25,kiambu
+79,Arabica,Guatemala,1700.0,Washed / Wet,7.33,7.25,6.92,7.33,7.25,7.33,san marcos
+79,Arabica,Nicaragua,1250.0,Washed / Wet,6.83,7.17,7.17,6.92,7.5,7.08,jinotega
+79,Arabica,Mexico,1300.0,Washed / Wet,7.17,7.08,7.0,7.25,7.5,7.0,veracruz
+79,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.58,7.08,6.83,7.17,7.5,7.17,kona
+79,Arabica,Guatemala,190164.0,Washed / Wet,7.5,7.42,7.25,7.58,7.33,7.42,oriente
+79,Arabica,Taiwan,1000.0,Natural / Dry,7.75,7.33,7.17,7.33,7.67,7.83,"taiwu township , pingtung county 屏東縣泰武鄉"
+79,Arabica,Taiwan,600.0,Washed / Wet,7.08,7.08,7.25,7.0,7.17,7.17,"baihe dist., tainan city 臺南市白河區"
+79,Arabica,Thailand,800.0,Washed / Wet,7.25,7.08,6.92,7.5,7.08,6.92,thailand
+79,Arabica,Peru,1310.64,Washed / Wet,7.0,7.08,7.0,7.25,7.5,7.42,huanuco
+79,Arabica,Costa Rica,1100.0,Washed / Wet,7.58,7.5,7.67,7.75,7.67,7.58,brunca
+79,Arabica,Mexico,1400.0,Washed / Wet,7.58,7.08,7.0,7.0,7.5,6.92,"la concordia, chiapas"
+79,Arabica,Mexico,1022.0,Washed / Wet,7.58,7.08,6.92,7.58,7.5,6.92,chiapas
+79,Arabica,Mexico,1300.0,Washed / Wet,7.25,7.08,7.0,7.17,7.17,7.08,chiapas
+79,Arabica,Mexico,1450.0,Washed / Wet,7.25,7.17,7.17,7.08,7.17,7.0,zaragoza itundujia
+79,Arabica,Mexico,1050.0,Washed / Wet,7.33,7.25,7.0,7.08,7.08,7.0,pochutla
+79,Arabica,Guatemala,1310.64,Washed / Wet,7.58,7.33,7.5,7.33,7.0,7.33,antigua
+79,Arabica,Mexico,1100.0,Washed / Wet,7.25,6.83,6.92,7.08,7.25,7.08,tuxtla gutierrez
+79,Arabica,Guatemala,1219.2,Washed / Wet,7.42,7.42,7.25,7.58,7.42,7.33,oriente
+79,Arabica,El Salvador,1250.0,Washed / Wet,7.25,7.08,7.0,6.83,7.33,7.17,cacahuatique
+79,Arabica,Thailand,800.0,Washed / Wet,6.92,7.17,6.83,7.42,7.17,7.08,thailand
+79,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.0,6.83,7.08,7.08,7.17,oriente
+79,Arabica,Mexico,1400.0,Washed / Wet,7.42,7.25,6.83,7.58,7.17,6.58,"la concordia, chiapas"
+79,Arabica,Mexico,975.0,Washed / Wet,7.33,7.17,7.0,6.75,7.08,7.0,"tenango de doria, hidalgo"
+79,Arabica,Mexico,1264.0,Washed / Wet,6.92,7.17,7.17,7.17,7.08,7.08,"coatepec, coatepec"
+79,Arabica,Mexico,1250.0,Washed / Wet,7.08,7.0,6.92,7.33,7.25,7.08,tepetzingo
+79,Arabica,Mexico,1550.0,Washed / Wet,7.25,6.92,6.92,7.33,7.25,7.0,la concordia
+79,Arabica,Colombia,1800.0,Washed / Wet,7.25,7.17,7.0,6.75,7.17,7.33,huila
+79,Arabica,Guatemala,1325.88,Washed / Wet,7.08,7.0,6.83,7.33,7.25,7.0,"chuva, san marcos"
+79,Arabica,Nicaragua,1050.0,Natural / Dry,6.92,6.92,7.0,7.42,7.25,7.0,jinotega
+79,Arabica,Taiwan,700.0,Natural / Dry,6.92,7.0,7.17,7.0,7.42,7.0,nantou
+79,Arabica,Colombia,1550.0,Washed / Wet,7.83,7.5,7.42,7.42,7.67,7.5,cundinamarca
+79,Arabica,Mexico,1550.0,Washed / Wet,7.25,7.08,6.92,7.25,7.58,7.08,la concordia
+79,Arabica,Mexico,1100.0,Washed / Wet,7.25,7.33,7.0,7.25,7.17,7.17,"coatepec, coatepec"
+79,Arabica,Guatemala,1219.2,Washed / Wet,7.08,7.33,7.25,7.58,7.33,7.42,oriente
+79,Arabica,Guatemala,1219.2,Washed / Wet,7.25,7.33,6.83,7.0,7.0,7.17,oriente
+79,Arabica,Mexico,800.0,Washed / Wet,7.0,6.83,6.83,7.42,7.33,7.17,xicotepec de juarez
+79,Arabica,Cote d?Ivoire,200.0,Washed / Wet,7.42,7.25,6.83,7.0,7.33,7.08,cnra station of divo
+79,Arabica,Colombia,1200.0,Washed / Wet,7.42,7.25,6.75,7.25,7.42,7.25,pereira
+79,Arabica,Mexico,950.0,Washed / Wet,7.0,7.0,6.83,7.33,7.42,6.92,zentla
+79,Arabica,Mexico,750.0,Washed / Wet,7.42,7.17,7.08,7.17,7.08,7.08,zentla
+79,Arabica,Guatemala,1310.64,Washed / Wet,7.17,6.5,6.33,7.25,7.58,7.33,oriente
+79,Arabica,Taiwan,850.0,Washed / Wet,7.08,6.83,6.83,7.25,7.42,7.08,natou county
+79,Arabica,Mexico,1000.0,Washed / Wet,7.0,7.0,6.92,7.17,7.17,7.08,veracruz
+79,Arabica,Guatemala,1219.2,Washed / Wet,7.33,7.42,7.33,7.42,7.5,7.42,santa rosa
+79,Arabica,Honduras,1650.0,Washed / Wet,7.58,7.0,6.75,6.92,7.0,6.92,ocotepeque
+79,Arabica,Guatemala,1320.0,Washed / Wet,7.08,7.0,6.92,7.42,7.0,6.92,occidente
+79,Arabica,Guatemala,1550.0,Washed / Wet,7.25,7.17,6.75,7.25,7.0,6.92,nuevo oriente
+79,Arabica,Costa Rica,1310.64,Washed / Wet,7.17,7.42,7.5,8.0,7.25,7.83,san rafael
+79,Arabica,Mexico,1550.0,Washed / Wet,7.25,7.08,6.92,7.08,7.17,7.17,zaragoza itundujia
+79,Arabica,Mexico,1450.0,Washed / Wet,7.17,6.92,6.92,7.08,7.17,7.0,yajalon
+79,Arabica,Mexico,1200.0,Washed / Wet,6.75,6.75,6.83,7.25,7.58,7.08,"pluma hidalogo, oaxaca"
+79,Arabica,Guatemala,1700.0,Washed / Wet,7.58,7.67,7.42,7.42,7.67,7.67,san marcos
+79,Arabica,United States (Puerto Rico),853.44,Washed / Wet,7.42,7.08,6.75,7.33,7.33,6.92,yauco region
+79,Arabica,Mexico,1500.0,Washed / Wet,7.33,7.0,6.92,7.25,7.33,7.08,zaragoza itundujia
+79,Arabica,Mexico,1100.0,Washed / Wet,7.25,7.08,6.75,7.33,7.42,7.0,tlacuilotepec
+79,Arabica,Mexico,1200.0,Washed / Wet,7.17,7.25,7.25,7.17,7.25,7.08,talpa de allende
+79,Arabica,Guatemala,1219.2,Washed / Wet,7.33,7.17,6.58,7.42,7.08,6.83,oriente
+79,Arabica,Honduras,1350.0,Washed / Wet,7.0,7.0,7.0,7.0,7.0,7.0,intibuca
+79,Arabica,Peru,1400.0,Washed / Wet,7.67,7.17,7.08,7.25,8.0,7.5,san ignacio
+79,Arabica,Mexico,1300.0,Natural / Dry,6.75,7.08,6.67,7.25,7.17,7.08,"iliatenco, guerrero"
+79,Arabica,Mexico,1550.0,Semi-washed / Semi-pulped,7.5,7.17,6.92,7.5,7.25,7.0,zaragoza itundujia
+79,Arabica,Mexico,12.0,Washed / Wet,7.17,6.83,6.83,7.25,7.17,6.92,amatenango de la frontera
+78,Arabica,Mexico,1300.0,Washed / Wet,7.33,7.0,6.75,7.08,7.17,7.25,"la concordia, chiapas"
+78,Arabica,Mexico,1400.0,Washed / Wet,7.5,7.0,6.92,7.08,6.92,6.75,zaragoza itundujia
+78,Arabica,Nicaragua,1100.0,Other,7.17,7.0,6.92,7.0,7.0,7.0,jalapa
+78,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,6.92,6.92,7.25,7.58,7.42,kona
+78,Arabica,Guatemala,1310.64,Washed / Wet,7.33,7.08,6.33,7.25,7.0,7.0,oriente
+78,Arabica,Mexico,1320.0,Washed / Wet,7.25,6.83,6.83,7.0,7.17,7.0,veracruz
+78,Arabica,Mexico,1250.0,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.25,7.08,7.0,veracruz
+78,Arabica,Mexico,1350.0,Washed / Wet,7.67,7.17,6.83,7.33,7.58,7.17,"ohuapan, tlaltetela"
+78,Arabica,China,1850.0,Washed / Wet,7.0,6.92,6.83,7.17,7.17,7.17,yunnan
+78,Arabica,Mexico,1150.0,Washed / Wet,6.92,6.92,6.67,7.25,7.17,6.92,yecuatla
+78,Arabica,Nicaragua,1310.64,Washed / Wet,7.08,7.0,6.75,6.83,7.08,6.92,nueva segovia
+78,Arabica,Guatemala,1219.2,Washed / Wet,7.33,7.17,6.92,7.58,7.25,7.17,oriente
+78,Arabica,Taiwan,800.0,Washed / Wet,6.83,6.75,7.17,7.25,7.0,6.92,"dongshan dist., tainan city 臺南市東山區"
+78,Arabica,Mexico,1400.0,Washed / Wet,7.0,7.0,6.75,7.33,6.92,6.92,tapachula
+78,Arabica,Mexico,1300.0,Washed / Wet,7.92,7.58,7.58,7.92,7.92,7.5,cofradia de suchitlan
+78,Arabica,United States (Hawaii),1310.64,Washed / Wet,7.92,6.83,7.08,7.42,6.75,7.33,kona
+78,Arabica,Mexico,1600.0,Washed / Wet,7.25,6.75,6.92,6.92,7.25,7.58,"sierra, chiapas"
+78,Arabica,Mexico,1400.0,Washed / Wet,7.08,6.83,6.83,7.0,7.0,6.92,villa talea de castro
+78,Arabica,Mexico,1200.0,Washed / Wet,7.25,7.17,7.0,6.83,7.58,7.08,los angeles
+78,Arabica,Brazil,1310.64,Natural / Dry,6.83,7.0,6.92,7.08,6.92,6.83,monte carmelo
+78,Arabica,Mexico,1500.0,Washed / Wet,7.58,7.17,7.0,7.17,7.33,7.0,zaragoza itundujia
+78,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.75,7.58,7.83,7.92,7.92,kona
+78,Arabica,Guatemala,1219.2,Washed / Wet,7.17,6.5,6.67,7.0,7.17,7.17,oriente
+78,Arabica,Guatemala,1310.64,Washed / Wet,7.17,7.17,6.5,7.17,7.0,6.83,oriente
+78,Arabica,Mexico,1300.0,Natural / Dry,7.25,7.25,7.0,7.5,7.33,7.42,"xochitonalco, huautla"
+78,Arabica,Guatemala,1310.64,Washed / Wet,7.17,6.08,6.17,7.25,7.33,7.33,oriente
+78,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.5,7.33,7.58,7.5,7.42,kona
+78,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.42,7.33,7.33,7.5,7.67,7.75,kona
+78,Arabica,Indonesia,1300.0,Washed / Wet,6.92,6.83,6.92,6.92,6.92,6.83,ijen
+78,Arabica,Mexico,1050.0,Washed / Wet,7.08,6.83,6.67,7.25,7.25,6.92,cordoba
+78,Arabica,Taiwan,650.0,Washed / Wet,7.5,7.08,7.33,7.17,7.5,7.5,"台南市東山區( dongshan dist., tainan city)"
+78,Arabica,Honduras,1350.0,Natural / Dry,6.83,7.0,6.67,7.0,7.0,6.83,intibuca
+78,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.58,7.33,7.5,7.42,7.5,7.33,kona
+78,Arabica,Guatemala,1219.2,Washed / Wet,7.42,7.25,6.83,7.33,7.0,6.92,oriente
+78,Arabica,China,1200.0,Washed / Wet,7.33,7.17,6.92,7.08,7.33,7.0,yunnan
+78,Arabica,Guatemala,1310.64,Washed / Wet,7.0,6.83,6.83,7.17,6.67,6.83,oriente
+78,Arabica,Mexico,850.0,Washed / Wet,7.25,7.33,7.0,7.0,7.25,7.08,"motozintla, chiapas"
+77,Arabica,Costa Rica,1200.0,Washed / Wet,7.5,7.25,7.42,7.0,7.08,6.83,occidental
+77,Arabica,Mexico,1248.0,Washed / Wet,7.42,7.25,7.0,7.0,7.25,7.08,petatlan
+77,Arabica,Guatemala,1310.64,Washed / Wet,7.17,6.17,6.17,7.08,7.33,6.83,oriente
+77,Arabica,Nicaragua,1000.0,Washed / Wet,7.42,7.0,7.0,7.17,7.08,7.0,jinotega
+77,Arabica,Guatemala,1310.64,Washed / Wet,7.0,6.83,6.67,7.17,6.83,6.83,oriente
+77,Arabica,Taiwan,775.0,Washed / Wet,7.17,6.75,6.58,7.33,7.33,7.17,"dongshan dist., tainan city 臺南市東山區"
+77,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.58,7.67,7.58,7.67,7.42,7.42,kona
+77,Arabica,Mexico,1300.0,Washed / Wet,7.17,6.75,6.58,6.75,6.83,6.75,coatepec
+77,Arabica,Guatemala,1310.64,Washed / Wet,7.08,6.92,6.33,7.0,6.92,7.0,oriente
+77,Arabica,Brazil,890.0,Natural / Dry,7.5,7.33,7.42,7.58,7.58,6.92,south of minas
+77,Arabica,Guatemala,1219.2,Washed / Wet,7.33,7.0,6.83,7.17,7.17,7.17,oriente
+77,Arabica,Mexico,1500.0,Washed / Wet,7.33,7.0,6.67,7.0,6.92,6.92,zaragoza itundujia
+77,Arabica,Haiti,825.0,Washed / Wet,6.83,6.83,6.83,6.75,6.92,6.92,"dondon, haiti"
+77,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.08,6.92,6.83,6.67,7.58,7.42,kona
+77,Arabica,Mexico,1200.0,Washed / Wet,7.08,7.0,7.0,7.25,7.33,7.25,"motozintla, chiapas"
+77,Arabica,Peru,1200.0,Washed / Wet,7.42,7.75,7.42,7.67,7.92,7.83,san ignacio
+76,Arabica,India,1310.64,Natural / Dry,7.67,7.33,7.17,6.67,7.17,7.42,chickmangalore
+76,Arabica,Mexico,1200.0,Washed / Wet,6.67,6.33,6.42,6.83,7.0,6.92,"pluma hidalogo, oaxaca"
+76,Arabica,Guatemala,1310.64,Washed / Wet,6.42,6.5,6.5,7.33,6.33,6.92,oriente
+76,Arabica,Mexico,1100.0,Washed / Wet,7.17,6.58,6.58,7.0,7.25,6.58,coatepec
+76,Arabica,Guatemala,1310.64,Washed / Wet,7.5,7.0,6.83,7.5,7.17,7.33,oriente
+76,Arabica,Guatemala,1310.64,Washed / Wet,6.17,6.5,6.5,7.17,7.0,6.83,oriente
+76,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.25,7.08,6.83,7.17,7.33,6.83,kona
+76,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.33,7.33,7.58,7.67,7.25,kona
+76,Arabica,Mexico,1400.0,Washed / Wet,7.42,7.0,6.83,7.08,6.92,6.83,zaragoza itundujia
+76,Arabica,Indonesia,3500.0,Natural / Dry,7.33,7.0,6.5,6.08,7.58,6.33,indonesia
+76,Arabica,Mexico,1250.0,Washed / Wet,7.08,6.83,6.83,7.17,7.17,7.08,tepictla
+76,Arabica,Honduras,1350.0,Natural / Dry,6.83,6.83,6.67,6.83,7.0,6.83,intibuca
+75,Arabica,Philippines,1000.0,Washed / Wet,6.83,6.5,6.5,6.92,6.75,7.0,"benguet, mountain province"
+75,Arabica,Brazil,1310.64,Natural / Dry,7.17,7.0,6.83,7.5,7.17,7.0,monte carmelo
+75,Arabica,Guatemala,1310.64,Washed / Wet,7.92,7.58,7.17,7.58,7.33,7.17,oriente
+75,Arabica,Guatemala,1310.64,Washed / Wet,6.67,6.5,6.33,7.0,7.17,6.75,oriente
+75,Arabica,Mexico,1100.0,Washed / Wet,7.5,7.25,6.92,7.0,7.17,6.83,tlacuilotepec
+75,Arabica,Mexico,1200.0,Washed / Wet,7.17,6.92,6.67,6.83,7.25,7.75,ocosingo
+75,Arabica,Mexico,1280.0,Washed / Wet,7.17,7.17,6.83,7.17,7.42,6.67,huautla de jimenez
+75,Arabica,Mexico,850.0,Washed / Wet,7.0,6.92,6.75,6.92,7.17,6.83,menglian
+74,Arabica,Mexico,1500.0,Washed / Wet,7.08,6.75,6.58,7.0,7.0,6.75,zaragoza itundujia
+74,Arabica,Mexico,1250.0,Washed / Wet,7.33,6.75,6.67,7.25,7.5,7.0,coatepec
+74,Arabica,Guatemala,1310.64,Washed / Wet,6.75,6.5,6.17,7.0,7.25,6.75,oriente
+74,Arabica,Guatemala,1310.64,Washed / Wet,6.75,6.67,6.17,7.17,7.0,6.58,oriente
+74,Arabica,Mexico,1700.0,Washed / Wet,7.08,7.0,6.83,7.5,7.33,6.83,chiapas
+74,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.5,7.25,7.0,7.25,7.42,7.33,kona
+74,Arabica,Guatemala,1310.64,Washed / Wet,6.5,6.33,6.5,7.5,7.33,6.83,oriente
+74,Arabica,Mexico,1140.0,Washed / Wet,7.0,6.58,6.67,6.83,7.08,6.83,"chocaman, veracruz"
+74,Arabica,Mexico,1200.0,Washed / Wet,6.92,6.42,6.17,7.33,7.25,6.75,xalapa
+73,Arabica,Mexico,1250.0,Washed / Wet,7.67,7.0,7.17,7.58,7.33,7.33,coatepec
+73,Arabica,United States (Hawaii),1310.64,Natural / Dry,7.17,7.17,7.17,7.58,7.67,6.92,kona
+73,Arabica,Brazil,1310.64,Washed / Wet,7.25,6.58,6.58,7.0,7.0,6.42,campos altos - cerrado
+73,Arabica,Honduras,1350.0,Washed / Wet,7.0,7.17,6.83,7.17,7.0,7.17,intibuca
+72,Arabica,Mexico,1200.0,Washed / Wet,7.08,7.08,6.92,7.08,6.92,6.92,sierra alta mixe y zapoteca
+72,Arabica,United States (Hawaii),1310.64,Natural / Dry,6.92,6.92,6.92,7.5,7.58,7.17,kona
+72,Arabica,Haiti,1020.0,Washed / Wet,6.92,6.75,7.08,7.17,7.33,6.67,marmelade
+71,Arabica,Costa Rica,1200.0,Washed / Wet,6.33,6.5,6.33,6.83,6.33,6.5,occidental
+71,Arabica,Mexico,800.0,Washed / Wet,6.92,6.92,6.92,6.92,7.17,7.0,tlatlauquitepec
+71,Arabica,Mexico,1800.0,Washed / Wet,6.5,6.67,6.42,7.17,7.33,6.5,veracruz
+70,Arabica,Mexico,1000.0,Washed / Wet,6.92,7.0,6.83,6.92,7.42,6.92,"sierra norte yajalon, chiapas"
+70,Arabica,Brazil,1310.64,Natural / Dry,7.0,7.0,6.83,7.0,7.33,6.83,cerrado
+69,Arabica,Honduras,1450.0,Washed / Wet,6.67,6.5,6.17,6.67,6.83,6.17,marcala
+69,Arabica,Honduras,1450.0,Washed / Wet,7.0,6.17,6.17,6.67,6.5,6.17,marcala
+69,Arabica,Honduras,1450.0,Washed / Wet,7.0,6.33,6.17,6.5,6.67,6.17,marcala
+68,Arabica,Mexico,900.0,Washed / Wet,7.08,6.83,6.25,7.42,7.25,6.75,juchique de ferrer
+67,Arabica,Haiti,350.0,Natural / Dry,6.75,6.58,6.42,6.67,7.08,6.67,"department d'artibonite , haiti"
+63,Arabica,Nicaragua,1100.0,Other,7.25,6.58,6.33,6.25,6.42,6.08,jalapa
+59,Arabica,Guatemala,1417.32,Washed / Wet,7.5,6.67,6.67,7.67,7.33,6.67,nuevo oriente
+0,Arabica,Honduras,1400.0,Washed / Wet,0.0,0.0,0.0,0.0,0.0,0.0,comayagua
+83,Robusta,Uganda,1488.0,Washed / Wet,7.83,8.08,7.75,7.92,8.25,7.92,sheema south western
+83,Robusta,India,3170.0,Washed / Wet,8.0,7.75,7.92,8.0,7.92,7.92,chikmagalur karnataka indua
+83,Robusta,India,1000.0,Washed / Wet,7.92,7.83,7.92,8.0,7.83,7.92,chikmagalur
+83,Robusta,Uganda,1212.0,Washed / Wet,8.0,7.92,7.92,7.75,7.83,7.75,central
+83,Robusta,Uganda,1250.0,Washed / Wet,8.33,7.83,7.83,7.75,8.25,7.75,luwero central region
+82,Robusta,India,3000.0,Washed / Wet,8.0,7.92,7.67,8.0,7.75,7.92,chikmagalur
+82,Robusta,India,750.0,Washed / Wet,7.67,7.75,7.83,7.83,7.92,7.75,chikmagalur
+82,Robusta,India,3140.0,Washed / Wet,7.67,7.75,7.83,7.67,7.92,7.83,chikmagalur karnataka india
+82,Robusta,India,1000.0,Washed / Wet,7.67,7.75,7.58,7.83,7.83,8.0,chikmagalur karnataka
+82,Robusta,Uganda,1100.0,Washed / Wet,7.67,7.83,7.83,7.83,7.92,7.75,western
+81,Robusta,Uganda,1095.0,Washed / Wet,7.58,7.92,7.75,7.83,7.5,7.67,iganga namadrope eastern
+81,Robusta,India,1000.0,Natural / Dry,7.67,7.83,7.75,7.5,7.75,7.58,chikmagalur karnataka
+81,Robusta,India,750.0,Washed / Wet,7.58,7.58,7.67,7.58,7.67,7.67,chikmagalur
+81,Robusta,Uganda,1367.0,Washed / Wet,8.0,7.75,7.75,7.58,7.67,7.5,eastern
+81,Robusta,Uganda,1488.0,Washed / Wet,8.0,7.67,7.75,7.5,7.67,7.58,south western
+81,Robusta,India,1000.0,Washed / Wet,7.75,7.75,7.67,7.67,7.58,7.58,chikmagalur
+81,Robusta,India,750.0,Natural / Dry,7.5,7.5,7.25,7.83,7.67,7.83,chikmagalur
+80,Robusta,Uganda,1600.0,Washed / Wet,7.33,7.58,7.5,7.75,7.75,7.67,western
+80,Robusta,Uganda,1745.0,Washed / Wet,7.83,7.58,7.33,7.67,7.5,7.5,western
+80,Robusta,Uganda,1200.0,Washed / Wet,7.75,7.42,7.33,7.58,7.67,7.58,southern
+80,Robusta,India,750.0,Washed / Wet,7.67,7.67,7.5,7.33,7.58,7.5,chikmagalur
+80,Robusta,India,750.0,Natural / Dry,7.58,7.42,7.42,7.83,7.42,7.5,chikmagalur
+79,Robusta,United States,3000.0,Natural / Dry,7.92,7.5,7.42,7.42,7.42,7.42,chikmagalur
+78,Robusta,Ecuador,1310.64,Washed / Wet,7.75,7.58,7.33,7.58,5.08,7.83,"san juan, playas"
+78,Robusta,Ecuador,40.0,Washed / Wet,7.5,7.67,7.75,7.75,5.17,5.25,"san juan, playas"
+77,Robusta,United States,795.0,Natural / Dry,7.33,7.33,7.17,7.42,7.5,7.17,"kwanza norte province, angola"
